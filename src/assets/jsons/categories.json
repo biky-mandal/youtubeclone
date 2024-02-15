@@ -1,0 +1,24 @@
+[
+    { "title": "All", "selected": true },
+    { "title": "Mixes", "selected": false },
+    { "title": "News", "selected": false },
+    { "title": "Multiple choice", "selected": false },
+    { "title": "Music", "selected": false },
+    { "title": "Tests", "selected": false },
+    { "title": "Geography", "selected": false },
+    { "title": "Gaming", "selected": false },
+    { "title": "History", "selected": false },
+    { "title": "Akshay Kumar", "selected": false },
+    { "title": "Dramedy", "selected": false },
+    { "title": "Bollywod", "selected": false },
+    { "title": "Bollywod Music", "selected": false },
+    { "title": "Seminars", "selected": false },
+    { "title": "Tamil Cinema", "selected": false },
+    { "title": "Gadgets", "selected": false },
+    { "title": "Game Shows", "selected": false },
+    { "title": "Mantras", "selected": false },
+    { "title": "Recently uploaded", "selected": false },
+    { "title": "Watched", "selected": false },
+    { "title": "New to you", "selected": false }
+
+]

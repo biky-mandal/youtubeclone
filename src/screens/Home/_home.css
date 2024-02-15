@@ -1,23 +1,69 @@
-.main-div{
+.main-div {
     width: 100%;
     height: 100vh;
     display: flex;
     flex-direction: column;
 }
-.header-div{
+
+.header-div {
     height: 3.5rem;
     width: 100%;
 }
-.content-with-sidebar{
+
+.content-with-sidebar {
     height: calc(100% - 3.5rem);
     width: 100%;
     display: flex;
 }
 
-.sidebar{
+.sidebar {
     width: 15rem;
 }
-.content{
+
+.content {
     width: calc(100% - 15rem);
-    background-color: rgb(181, 135, 224);
+    padding: 10px 2rem;
+}
+
+.categories {
+    width: 100%;
+    height: 2rem;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    justify-content: flex-start;
+    overflow: scroll;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.categories::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.categories {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+.category {
+    height: 100%;
+    padding: 0 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0000000d;
+    border-radius: 8px;
+    color: #0f0f0f;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: 500;
+    text-wrap: nowrap;
+}
+
+.selected {
+    background-color: #000000;
+    color: #fff;
 }

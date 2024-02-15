@@ -24,6 +24,13 @@
 .sidenav:hover{
     background-color: #f2f2f2;
 }
+.side-nav-group-title{
+    justify-content: flex-start;
+}
+.side-nav-group-title span{
+    margin-left: 1rem;
+}
+
 .sidenav-icon{
     width: 3.5rem;
     height: 100%;
@@ -41,9 +48,10 @@
     justify-content: flex-start;
     font-size: 14px;
     color: #0f0f0f;
-    font-weight: 500;
+    font-weight: 400;
 }
 .hr{
-    border: 1px solid #e6e6e682;
+    border: 1px solid #cacaca82;
     width: 100%;
+    margin: 0;
 }

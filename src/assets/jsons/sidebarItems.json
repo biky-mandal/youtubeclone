@@ -1,0 +1,77 @@
+[
+    {
+        "isGroup": false,
+        "title": null,
+        "items": [
+            {
+                "title": "Home",
+                "isActive": true,
+                "activeIcon": "home",
+                "normalIcon": "home",
+                "link": ""
+            },
+            {
+                "title": "Shorts",
+                "isActive": false,
+                "activeIcon": "play_circle",
+                "normalIcon": "play_circle",
+                "link": ""
+            },
+            {
+                "title": "Subscription",
+                "isActive": false,
+                "activeIcon": "subscriptions",
+                "normalIcon": "subscriptions",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "isGroup": true,
+        "title": "You",
+        "items": [
+            {
+                "title": "Your Channel",
+                "isActive": false,
+                "activeIcon": "account_box",
+                "normalIcon": "account_box",
+                "link": ""
+            },
+            {
+                "title": "History",
+                "isActive": false,
+                "activeIcon": "history",
+                "normalIcon": "history",
+                "link": ""
+            },
+            {
+                "title": "Your videos",
+                "isActive": false,
+                "activeIcon": "slideshow",
+                "normalIcon": "slideshow",
+                "link": ""
+            },
+            {
+                "title": "Watch Later",
+                "isActive": false,
+                "activeIcon": "pace",
+                "normalIcon": "pace",
+                "link": ""
+            },
+            {
+                "title": "Your clips",
+                "isActive": false,
+                "activeIcon": "cut",
+                "normalIcon": "cut",
+                "link": ""
+            },
+            {
+                "title": "Liked videos",
+                "isActive": false,
+                "activeIcon": "thumb_up",
+                "normalIcon": "thumb_up",
+                "link": ""
+            }
+        ]
+    }
+]
