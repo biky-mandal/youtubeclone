@@ -1,0 +1,53 @@
+.header-main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.left-part, .right-part{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 1.5rem;
+}
+.middle-part{
+    width: 70%;
+}
+.right-part{
+    justify-content: flex-end; 
+}
+.icon{
+    display: flex;
+    align-items: center;
+    align-items: center;
+    font-size: 18px;
+}
+.yt-icon{
+    display: flex;
+    align-items: center;
+    align-items: center;
+}
+.yt-icon img{
+    height: 3rem;
+    width: auto;
+}
+
+.notificaton-icon{
+    border-radius: 50%;
+    border: none;
+    padding: 8px;
+    background-color: transparent;
+    cursor: pointer;
+}
+.notificaton-icon:hover{
+    background-color: #f0f0f0;
+}
+.account-circle{
+    width: 2.3rem;
+    height: 2.3rem;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+}
