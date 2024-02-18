@@ -1,0 +1,47 @@
+.login-main-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
+.login-div{
+    width: 40%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem 2rem;
+    border: 1px solid #ccc;
+}
+.login-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 10px 2rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.login-btn:hover{
+    background-color: #e6e6e6;
+}
+.google-icon{
+    width: 24px;
+    height: 24px;
+}
+.google-text{
+    font-size: 16px;
+    font-weight: 500;
+}
+.project-desc{
+    font-size: 12px;
+    font-weight: 300;
+    color: #000000;
+    margin-top: 2rem;
+    text-align: center;
+    line-height: 150%;
+}

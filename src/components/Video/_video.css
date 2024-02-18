@@ -1,0 +1,61 @@
+.video{
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    flex-direction: column;
+}
+.thumbnail-box{
+
+    position: relative;
+}
+.duration{
+    position: absolute;
+    z-index: 1;
+    background-color: #0f0f0f;
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    right: 2px;
+    bottom: 2px;
+}
+.bottom-description{
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    height: auto;
+}
+.channel-icon{
+    width: 3rem;
+    height: auto;
+}
+.description{
+    width: calc(100% - 3rem);
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.texts{
+    text-wrap: wrap;
+    font-size: 16px;
+    color: #0f0f0f;
+    font-weight: 500;
+}
+.c-icon{
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+}
+.channel-title{
+    font-size: 14px;
+    color: #606060;
+    font-weight: 400;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 5px;
+}

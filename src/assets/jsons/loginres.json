@@ -1,0 +1,1704 @@
+{
+    "data": {
+        "kind": "youtube#videoListResponse",
+        "etag": "125ZFJe8QWVvLj9uUCEbKiStMRE",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "5wxu4Svq5LYWESwdwsOl2mEOJGU",
+                "id": "A76db9lX2fE",
+                "snippet": {
+                    "publishedAt": "2024-02-16T11:30:13Z",
+                    "channelId": "UC_gXhnzeF5_XIFn4gx_bocg",
+                    "title": "AMARAN TEASER | Ulaganayagan Kamal Haasan | Sivakarthikeyan | Rajkumar | GV Prakash | R. Mahendran",
+                    "description": "#amaran #sk21 #Ulaganayagan #kamalhaasan #sivakarthikeyan \n\nStarring: Sivakarthikeyan, Sai Pallavi\nDirector : Rajkumar Periasamy\nBanner:  Raajkamal Films International & Sony Pictures International Productions\nProduced by : Kamal Haasan, Sony Pictures International Productions, R. Mahendran\nCo- Produced by: Vakil Khan (God Bless Entertainment)\nMusic:  G V Prakash Kumar\nCinematographer:  CH Sai\nAction:  Stefan Richter\nEditor:  R. Kalaivannan\nDance Choreography:  Sherif\nProduction Design:  Rajeevan\nCostume designers: Amritha Ram, Sameera Saneesh, V. Sai\nMake Up :  Altaf Assu Mammoo, U K Sasikumar\nDialogue Writer:  Rajkumar Periasamy\nStills:  D.Narendran\nPublicity Designer: Kabilan\nSubtitles - Rekhs\nSound Designer: Sync Cinema\nSound Mixer : Kannan Ganpat\nVFX: Unifi Media\nDI: Pixel Light Studio\nProduction Controller:  M. Senthel\nAssociate Director:  Naveen Senthilnathan\nDigital Marketing : Magizh Mandram \nExecutive Producer: S. Disney",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/A76db9lX2fE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/A76db9lX2fE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/A76db9lX2fE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/A76db9lX2fE/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/A76db9lX2fE/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Raaj Kamal Films International",
+                    "tags": [
+                        "Ulaganayagan Tube",
+                        "Kamal Haasan",
+                        "sk 21",
+                        "sk 21 update",
+                        "sk 21 heroine",
+                        "sivakarthikeyan movie update",
+                        "sk 21 movie update",
+                        "sk 21 movie",
+                        "sk 21 trailer",
+                        "sivakarthikeyan latest movie update",
+                        "sk 21 announcement",
+                        "sk 21 story",
+                        "sivakarthikeyan sk 21",
+                        "sk 21 shooting",
+                        "sk 21 release date",
+                        "sivakarthikeyan 21",
+                        "sk21",
+                        "sivakarthikeyan 21 movie",
+                        "sivakarthikeyan",
+                        "sai pallavi",
+                        "sk21 sai pallavi",
+                        "sk 21 promo",
+                        "sk 21 teaser",
+                        "sk21 trailer",
+                        "sk21 first look",
+                        "sk21 title",
+                        "sk21 movie title"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "AMARAN TEASER | Ulaganayagan Kamal Haasan | Sivakarthikeyan | Rajkumar | GV Prakash | R. Mahendran",
+                        "description": "#amaran #sk21 #Ulaganayagan #kamalhaasan #sivakarthikeyan \n\nStarring: Sivakarthikeyan, Sai Pallavi\nDirector : Rajkumar Periasamy\nBanner:  Raajkamal Films International & Sony Pictures International Productions\nProduced by : Kamal Haasan, Sony Pictures International Productions, R. Mahendran\nCo- Produced by: Vakil Khan (God Bless Entertainment)\nMusic:  G V Prakash Kumar\nCinematographer:  CH Sai\nAction:  Stefan Richter\nEditor:  R. Kalaivannan\nDance Choreography:  Sherif\nProduction Design:  Rajeevan\nCostume designers: Amritha Ram, Sameera Saneesh, V. Sai\nMake Up :  Altaf Assu Mammoo, U K Sasikumar\nDialogue Writer:  Rajkumar Periasamy\nStills:  D.Narendran\nPublicity Designer: Kabilan\nSubtitles - Rekhs\nSound Designer: Sync Cinema\nSound Mixer : Kannan Ganpat\nVFX: Unifi Media\nDI: Pixel Light Studio\nProduction Controller:  M. Senthel\nAssociate Director:  Naveen Senthilnathan\nDigital Marketing : Magizh Mandram \nExecutive Producer: S. Disney"
+                    },
+                    "defaultAudioLanguage": "ta"
+                },
+                "contentDetails": {
+                    "duration": "PT1M35S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "true",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "10491877",
+                    "likeCount": "239093",
+                    "favoriteCount": "0",
+                    "commentCount": "8506"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "OyhW1OCmHCifVRavxQicVVdYYcQ",
+                "id": "M4wlGUQRbnI",
+                "snippet": {
+                    "publishedAt": "2024-02-16T04:30:31Z",
+                    "channelId": "UCq_7HCsiy115mre6OBH_dAQ",
+                    "title": "गुरु-चेला GURU-CHELA Part-2 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi",
+                    "description": "#Uttarkumar #Prabhatdhama \n\nBanner - RAJLAXMI Movies\n\nFilm Title - गुरु-चेला GURU-CHELA Part-2\nArtists - Uttar kumar , Prabhat Dhama, Lovely Rajput,  Aafiya Khan, Surjeet Singh Sirohi, Rajeev Sirohi, Kirti Sirohi, Pooja, Komal, Shanky,  Sanjay Dhoom,  Vikas Balian,  Aaditya Rathi\nProduced by - Smt. Rajbala Dhama\nConcept, Story, Dialogues & Directed by - Uttar kumar \nAsst. Director - Summit Vaats ,Vansh sirohi\nCameramen - Deepak Bhardwaj , Vikas Saini & Banti Rajjput\nD.I. & Final Edit - Harish Chandra\nEdit : Kunal\nMusic - GR music & Dhanesh Raj\nSound Recording - Mahindra kumar\nSinger - Harjeet Deewana, Nonu Rana & Dhanesh Raj\nMake-up - Ajay Kumar & Kajal\nWriter - M.N.Rahi Akela  \nP.C. - Vikas kumar chacha\n\n\n\nSocial Links :- \nFacebook : https://www.facebook.com/uttarkumarofficial/\nWikipedia : https://en.wikipedia.org/wiki/Uttar_Kumar\nTwitter : https://twitter.com/iuttarkumar\nWebsite : http://www.uttarkumar.in/\nInstagram : https://www.instagram.com/uttarkumardhama/\nImdb : https://www.imdb.com/name/nm9845146/\nGaana : https://gaana.com/artist/uttar-kumar\nWynk : https://wynk.in/music/artist/uttar-kumar\nSpotify : https://open.spotify.com/artist/1t0hpO4EXT57nGrbbcuTm5\nHungama : https://www.hungama.com/artist/uttar-kumar/5968899/\nRaaga : https://www.raaga.com/haryanvi/music/Uttar-Kumar\nJioSaavn : https://www.jiosaavn.com/artist/uttar-kumar-/,JSdHrgY1Lg_\nItunes : https://itunes.apple.com/ca/artist/uttar-kumar/893284375\nMusic.YouTube : https://music.youtube.com/channel/UCw-PVMMyyVPVQRKQVBy0HHg\n\n\nगुरु-चेला GURU-CHELA Part-2 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi\n\nगुरु-चेला GURU-CHELA Part-2 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi\n\nगुरु-चेला GURU-CHELA Part-2 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/M4wlGUQRbnI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/M4wlGUQRbnI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/M4wlGUQRbnI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/M4wlGUQRbnI/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/M4wlGUQRbnI/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Rajlaxmi",
+                    "tags": [
+                        "rajlaxmi movies",
+                        "dehati film",
+                        "haryanvi film",
+                        "uttar kumar ki film",
+                        "mannu",
+                        "uttar kumar",
+                        "dhakad chora",
+                        "rajlaxmi",
+                        "uttar kumar ki movie",
+                        "dhakad chore ki film",
+                        "dhakad chora movie",
+                        "mannu ki film",
+                        "manoj ki film",
+                        "uttar kumar new movie",
+                        "hits of uttar kumar",
+                        "uttar kumar new upload",
+                        "indian village film",
+                        "mor film",
+                        "nayi film",
+                        "new movie 2024",
+                        "गुरु-चेला",
+                        "GURU-CHELA",
+                        "Prabhat Dhama"
+                    ],
+                    "categoryId": "1",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "गुरु-चेला GURU-CHELA Part-2 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi",
+                        "description": "#Uttarkumar #Prabhatdhama \n\nBanner - RAJLAXMI Movies\n\nFilm Title - गुरु-चेला GURU-CHELA Part-2\nArtists - Uttar kumar , Prabhat Dhama, Lovely Rajput,  Aafiya Khan, Surjeet Singh Sirohi, Rajeev Sirohi, Kirti Sirohi, Pooja, Komal, Shanky,  Sanjay Dhoom,  Vikas Balian,  Aaditya Rathi\nProduced by - Smt. Rajbala Dhama\nConcept, Story, Dialogues & Directed by - Uttar kumar \nAsst. Director - Summit Vaats ,Vansh sirohi\nCameramen - Deepak Bhardwaj , Vikas Saini & Banti Rajjput\nD.I. & Final Edit - Harish Chandra\nEdit : Kunal\nMusic - GR music & Dhanesh Raj\nSound Recording - Mahindra kumar\nSinger - Harjeet Deewana, Nonu Rana & Dhanesh Raj\nMake-up - Ajay Kumar & Kajal\nWriter - M.N.Rahi Akela  \nP.C. - Vikas kumar chacha\n\n\n\nSocial Links :- \nFacebook : https://www.facebook.com/uttarkumarofficial/\nWikipedia : https://en.wikipedia.org/wiki/Uttar_Kumar\nTwitter : https://twitter.com/iuttarkumar\nWebsite : http://www.uttarkumar.in/\nInstagram : https://www.instagram.com/uttarkumardhama/\nImdb : https://www.imdb.com/name/nm9845146/\nGaana : https://gaana.com/artist/uttar-kumar\nWynk : https://wynk.in/music/artist/uttar-kumar\nSpotify : https://open.spotify.com/artist/1t0hpO4EXT57nGrbbcuTm5\nHungama : https://www.hungama.com/artist/uttar-kumar/5968899/\nRaaga : https://www.raaga.com/haryanvi/music/Uttar-Kumar\nJioSaavn : https://www.jiosaavn.com/artist/uttar-kumar-/,JSdHrgY1Lg_\nItunes : https://itunes.apple.com/ca/artist/uttar-kumar/893284375\nMusic.YouTube : https://music.youtube.com/channel/UCw-PVMMyyVPVQRKQVBy0HHg\n\n\nगुरु-चेला GURU-CHELA Part-2 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi\n\nगुरु-चेला GURU-CHELA Part-2 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi\n\nगुरु-चेला GURU-CHELA Part-2 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi"
+                    },
+                    "defaultAudioLanguage": "hi"
+                },
+                "contentDetails": {
+                    "duration": "PT54M38S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "998804",
+                    "likeCount": "19940",
+                    "favoriteCount": "0",
+                    "commentCount": "995"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "spusf5dFTX0g3STFgel_1qoPotE",
+                "id": "yrWApMHbA78",
+                "snippet": {
+                    "publishedAt": "2024-02-16T03:30:01Z",
+                    "channelId": "UCq_7HCsiy115mre6OBH_dAQ",
+                    "title": "गुरु-चेला GURU-CHELA Part-1 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi",
+                    "description": "#Uttarkumar #Prabhatdhama \n\nBanner - RAJLAXMI Movies\n\nFilm Title - गुरु-चेला GURU-CHELA Part-1\nArtists - Uttar kumar , Prabhat Dhama, Lovely Rajput,  Aafiya Khan, Surjeet Singh Sirohi, Rajeev Sirohi, Kirti Sirohi, Pooja, Komal, Shanky,  Sanjay Dhoom,  Vikas Balian,  Aaditya Rathi\nProduced by - Smt. Rajbala Dhama\nConcept, Story, Dialogues & Directed by - Uttar kumar \nAsst. Director - Summit Vaats ,Vansh sirohi\nCameramen - Deepak Bhardwaj , Vikas Saini & Banti Rajjput\nD.I. & Final Edit - Harish Chandra\nEdit : Kunal\nMusic - GR music & Dhanesh Raj\nSound Recording - Mahindra kumar\nSinger - Harjeet Deewana, Nonu Rana & Dhanesh Raj\nMake-up - Ajay Kumar & Kajal\nWriter - M.N.Rahi akela  \nP.C. - Vikas kumar chacha\n\n\n\nSocial Links :- \nFacebook : https://www.facebook.com/uttarkumarofficial/\nWikipedia : https://en.wikipedia.org/wiki/Uttar_Kumar\nTwitter : https://twitter.com/iuttarkumar\nWebsite : http://www.uttarkumar.in/\nInstagram : https://www.instagram.com/uttarkumardhama/\nImdb : https://www.imdb.com/name/nm9845146/\nGaana : https://gaana.com/artist/uttar-kumar\nWynk : https://wynk.in/music/artist/uttar-kumar\nSpotify : https://open.spotify.com/artist/1t0hpO4EXT57nGrbbcuTm5\nHungama : https://www.hungama.com/artist/uttar-kumar/5968899/\nRaaga : https://www.raaga.com/haryanvi/music/Uttar-Kumar\nJioSaavn : https://www.jiosaavn.com/artist/uttar-kumar-/,JSdHrgY1Lg_\nItunes : https://itunes.apple.com/ca/artist/uttar-kumar/893284375\nMusic.YouTube : https://music.youtube.com/channel/UCw-PVMMyyVPVQRKQVBy0HHg\n\n\nगुरु-चेला GURU-CHELA Part-1 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi\n\nगुरु-चेला GURU-CHELA Part-1 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi\n\nगुरु-चेला GURU-CHELA Part-1 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/yrWApMHbA78/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/yrWApMHbA78/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/yrWApMHbA78/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/yrWApMHbA78/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/yrWApMHbA78/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Rajlaxmi",
+                    "tags": [
+                        "rajlaxmi movies",
+                        "dehati film",
+                        "haryanvi film",
+                        "uttar kumar ki film",
+                        "mannu",
+                        "uttar kumar",
+                        "dhakad chora",
+                        "rajlaxmi",
+                        "uttar kumar ki movie",
+                        "dhakad chore ki film",
+                        "dhakad chora movie",
+                        "mannu ki film",
+                        "manoj ki film",
+                        "uttar kumar new movie",
+                        "hits of uttar kumar",
+                        "uttar kumar new upload",
+                        "indian village film",
+                        "mor film",
+                        "nayi film",
+                        "new movie 2024",
+                        "गुरु-चेला",
+                        "GURU-CHELA",
+                        "Prabhat Dhama"
+                    ],
+                    "categoryId": "1",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "गुरु-चेला GURU-CHELA Part-1 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi",
+                        "description": "#Uttarkumar #Prabhatdhama \n\nBanner - RAJLAXMI Movies\n\nFilm Title - गुरु-चेला GURU-CHELA Part-1\nArtists - Uttar kumar , Prabhat Dhama, Lovely Rajput,  Aafiya Khan, Surjeet Singh Sirohi, Rajeev Sirohi, Kirti Sirohi, Pooja, Komal, Shanky,  Sanjay Dhoom,  Vikas Balian,  Aaditya Rathi\nProduced by - Smt. Rajbala Dhama\nConcept, Story, Dialogues & Directed by - Uttar kumar \nAsst. Director - Summit Vaats ,Vansh sirohi\nCameramen - Deepak Bhardwaj , Vikas Saini & Banti Rajjput\nD.I. & Final Edit - Harish Chandra\nEdit : Kunal\nMusic - GR music & Dhanesh Raj\nSound Recording - Mahindra kumar\nSinger - Harjeet Deewana, Nonu Rana & Dhanesh Raj\nMake-up - Ajay Kumar & Kajal\nWriter - M.N.Rahi akela  \nP.C. - Vikas kumar chacha\n\n\n\nSocial Links :- \nFacebook : https://www.facebook.com/uttarkumarofficial/\nWikipedia : https://en.wikipedia.org/wiki/Uttar_Kumar\nTwitter : https://twitter.com/iuttarkumar\nWebsite : http://www.uttarkumar.in/\nInstagram : https://www.instagram.com/uttarkumardhama/\nImdb : https://www.imdb.com/name/nm9845146/\nGaana : https://gaana.com/artist/uttar-kumar\nWynk : https://wynk.in/music/artist/uttar-kumar\nSpotify : https://open.spotify.com/artist/1t0hpO4EXT57nGrbbcuTm5\nHungama : https://www.hungama.com/artist/uttar-kumar/5968899/\nRaaga : https://www.raaga.com/haryanvi/music/Uttar-Kumar\nJioSaavn : https://www.jiosaavn.com/artist/uttar-kumar-/,JSdHrgY1Lg_\nItunes : https://itunes.apple.com/ca/artist/uttar-kumar/893284375\nMusic.YouTube : https://music.youtube.com/channel/UCw-PVMMyyVPVQRKQVBy0HHg\n\n\nगुरु-चेला GURU-CHELA Part-1 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi\n\nगुरु-चेला GURU-CHELA Part-1 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi\n\nगुरु-चेला GURU-CHELA Part-1 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi"
+                    },
+                    "defaultAudioLanguage": "hi"
+                },
+                "contentDetails": {
+                    "duration": "PT50M51S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "1389462",
+                    "likeCount": "38660",
+                    "favoriteCount": "0",
+                    "commentCount": "2066"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "4IQB47oL5QAZBP1InfntFjKubOg",
+                "id": "85BBUvQOnBY",
+                "snippet": {
+                    "publishedAt": "2024-02-16T05:40:27Z",
+                    "channelId": "UCq_7HCsiy115mre6OBH_dAQ",
+                    "title": "गुरु-चेला GURU-CHELA Part-3 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi",
+                    "description": "#Uttarkumar #Prabhatdhama \n\nBanner - RAJLAXMI Movies\n\nFilm Title - गुरु-चेला GURU-CHELA Part-3\nArtists - Uttar kumar , Prabhat Dhama, Lovely Rajput,  Aafiya Khan, Surjeet Singh Sirohi, Rajeev Sirohi, Kirti Sirohi, Pooja, Komal, Shanky,  Sanjay Dhoom,  Vikas Balian,  Aaditya Rathi\nProduced by - Smt. Rajbala Dhama\nConcept, Story, Dialogues & Directed by - Uttar kumar \nAsst. Director - Summit Vaats ,Vansh sirohi\nCameramen - Deepak Bhardwaj , Vikas Saini & Banti Rajjput\nD.I. & Final Edit - Harish Chandra\nEdit : Kunal\nMusic - GR music & Dhanesh Raj\nSound Recording - Mahindra kumar\nSinger - Harjeet Deewana, Nonu Rana & Dhanesh Raj\nMake-up - Ajay Kumar & Kajal\nWriter - M.N.Rahi Akela  \nP.C. - Vikas kumar chacha\n\n\n\nSocial Links :- \nFacebook : https://www.facebook.com/uttarkumarofficial/\nWikipedia : https://en.wikipedia.org/wiki/Uttar_Kumar\nTwitter : https://twitter.com/iuttarkumar\nWebsite : http://www.uttarkumar.in/\nInstagram : https://www.instagram.com/uttarkumardhama/\nImdb : https://www.imdb.com/name/nm9845146/\nGaana : https://gaana.com/artist/uttar-kumar\nWynk : https://wynk.in/music/artist/uttar-kumar\nSpotify : https://open.spotify.com/artist/1t0hpO4EXT57nGrbbcuTm5\nHungama : https://www.hungama.com/artist/uttar-kumar/5968899/\nRaaga : https://www.raaga.com/haryanvi/music/Uttar-Kumar\nJioSaavn : https://www.jiosaavn.com/artist/uttar-kumar-/,JSdHrgY1Lg_\nItunes : https://itunes.apple.com/ca/artist/uttar-kumar/893284375\nMusic.YouTube : https://music.youtube.com/channel/UCw-PVMMyyVPVQRKQVBy0HHg\n\n\nगुरु-चेला GURU-CHELA Part-3 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi\n\nगुरु-चेला GURU-CHELA Part-3 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi\n\nगुरु-चेला GURU-CHELA Part-3 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/85BBUvQOnBY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/85BBUvQOnBY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/85BBUvQOnBY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/85BBUvQOnBY/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/85BBUvQOnBY/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Rajlaxmi",
+                    "tags": [
+                        "rajlaxmi movies",
+                        "dehati film",
+                        "haryanvi film",
+                        "uttar kumar ki film",
+                        "mannu",
+                        "uttar kumar",
+                        "dhakad chora",
+                        "rajlaxmi",
+                        "uttar kumar ki movie",
+                        "dhakad chore ki film",
+                        "dhakad chora movie",
+                        "mannu ki film",
+                        "manoj ki film",
+                        "uttar kumar new movie",
+                        "hits of uttar kumar",
+                        "uttar kumar new upload",
+                        "indian village film",
+                        "mor film",
+                        "nayi film",
+                        "new movie 2024",
+                        "गुरु-चेला",
+                        "GURU-CHELA",
+                        "Prabhat Dhama"
+                    ],
+                    "categoryId": "1",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "गुरु-चेला GURU-CHELA Part-3 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi",
+                        "description": "#Uttarkumar #Prabhatdhama \n\nBanner - RAJLAXMI Movies\n\nFilm Title - गुरु-चेला GURU-CHELA Part-3\nArtists - Uttar kumar , Prabhat Dhama, Lovely Rajput,  Aafiya Khan, Surjeet Singh Sirohi, Rajeev Sirohi, Kirti Sirohi, Pooja, Komal, Shanky,  Sanjay Dhoom,  Vikas Balian,  Aaditya Rathi\nProduced by - Smt. Rajbala Dhama\nConcept, Story, Dialogues & Directed by - Uttar kumar \nAsst. Director - Summit Vaats ,Vansh sirohi\nCameramen - Deepak Bhardwaj , Vikas Saini & Banti Rajjput\nD.I. & Final Edit - Harish Chandra\nEdit : Kunal\nMusic - GR music & Dhanesh Raj\nSound Recording - Mahindra kumar\nSinger - Harjeet Deewana, Nonu Rana & Dhanesh Raj\nMake-up - Ajay Kumar & Kajal\nWriter - M.N.Rahi Akela  \nP.C. - Vikas kumar chacha\n\n\n\nSocial Links :- \nFacebook : https://www.facebook.com/uttarkumarofficial/\nWikipedia : https://en.wikipedia.org/wiki/Uttar_Kumar\nTwitter : https://twitter.com/iuttarkumar\nWebsite : http://www.uttarkumar.in/\nInstagram : https://www.instagram.com/uttarkumardhama/\nImdb : https://www.imdb.com/name/nm9845146/\nGaana : https://gaana.com/artist/uttar-kumar\nWynk : https://wynk.in/music/artist/uttar-kumar\nSpotify : https://open.spotify.com/artist/1t0hpO4EXT57nGrbbcuTm5\nHungama : https://www.hungama.com/artist/uttar-kumar/5968899/\nRaaga : https://www.raaga.com/haryanvi/music/Uttar-Kumar\nJioSaavn : https://www.jiosaavn.com/artist/uttar-kumar-/,JSdHrgY1Lg_\nItunes : https://itunes.apple.com/ca/artist/uttar-kumar/893284375\nMusic.YouTube : https://music.youtube.com/channel/UCw-PVMMyyVPVQRKQVBy0HHg\n\n\nगुरु-चेला GURU-CHELA Part-3 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi\n\nगुरु-चेला GURU-CHELA Part-3 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi\n\nगुरु-चेला GURU-CHELA Part-3 | Uttar kumar New movie2024 | Prabhat Dhama | Lovely | Aafiya | Rajlaxmi"
+                    },
+                    "defaultAudioLanguage": "hi"
+                },
+                "contentDetails": {
+                    "duration": "PT53M18S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "977397",
+                    "likeCount": "22620",
+                    "favoriteCount": "0",
+                    "commentCount": "1586"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "geo_knCK5rw0PpAUNCQLDFQzKrQ",
+                "id": "q4X7WSwH1Y0",
+                "snippet": {
+                    "publishedAt": "2024-02-15T15:48:31Z",
+                    "channelId": "UCY6s6soycjPFPAajxbmrmBg",
+                    "title": "DRIVING A SUPERCAR ON WATER",
+                    "description": "EPIC ADVENTURE IN DUBAI\n#adventure  #Techno\n\nBusiness Email : technogamerzofficial@gmail.com\n\nAbout : Hey! My name is Ujjwal Aka Techno Gamerz, I started my YouTube journey from gaming, But now it's time to do some IRL stuff. Make sure to subscribe for Awesome videos!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/q4X7WSwH1Y0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/q4X7WSwH1Y0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/q4X7WSwH1Y0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/q4X7WSwH1Y0/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/q4X7WSwH1Y0/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Techno",
+                    "tags": [
+                        "adventure",
+                        "dubai",
+                        "travel",
+                        "tour",
+                        "vlog",
+                        "fun",
+                        "activity",
+                        "supercar",
+                        "zipline",
+                        "desert safari",
+                        "jat car",
+                        "car on water",
+                        "ujjwal",
+                        "techno gamerz"
+                    ],
+                    "categoryId": "24",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "DRIVING A SUPERCAR ON WATER",
+                        "description": "EPIC ADVENTURE IN DUBAI\n#adventure  #Techno\n\nBusiness Email : technogamerzofficial@gmail.com\n\nAbout : Hey! My name is Ujjwal Aka Techno Gamerz, I started my YouTube journey from gaming, But now it's time to do some IRL stuff. Make sure to subscribe for Awesome videos!"
+                    }
+                },
+                "contentDetails": {
+                    "duration": "PT13M22S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "2347335",
+                    "likeCount": "167681",
+                    "favoriteCount": "0",
+                    "commentCount": "7679"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "zJIh6NkdUTEH_TOnC0ft73R6E9c",
+                "id": "rLg__oXAsTM",
+                "snippet": {
+                    "publishedAt": "2024-02-15T05:41:01Z",
+                    "channelId": "UCeALltNJ6GDNRwA0B7clXyA",
+                    "title": "My First Vlog Of 2024 | Pearle Maaney | Baby Nitara | Baby Nila",
+                    "description": "Join Pearle Maaney for her first vlog of 2024, featuring behind the scenes of the noolukettu function and adorable moments with baby Nitara and baby Nila! Don't miss this heartwarming and fun vlog!\n\nFollow me on Spotify : https://open.spotify.com/show/5TWS6FqK6jVGfHadP5yryZ?si=-0AmH309THSk7H4E4gox8A\nSubscribe to our tech channel : https://www.youtube.com/@pearletechnick\nLike me on Facebook @ https://www.facebook.com/PearleMaaney...\nFollow me on Instagram @ https://www.instagram.com/pearlemaany\nFollow Srinish on instagram : @ https://www.instagram.com/srinish_aravind\nFor Sponsorship : pearleproductions2020@gmail.com\n\n#pearlemaaney #srinisharavind #nitarasrinish #nilasrinish #noolukettu",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/rLg__oXAsTM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/rLg__oXAsTM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/rLg__oXAsTM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/rLg__oXAsTM/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/rLg__oXAsTM/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Pearle Maaney",
+                    "tags": [
+                        "naming ceremony",
+                        "pearle maaney",
+                        "noolukettu",
+                        "pearle maaney baby",
+                        "nila srinish",
+                        "baby naming ceremony",
+                        "pearle maaney youtube channel",
+                        "pearle maaney show",
+                        "bigg boss malayalam",
+                        "pearly",
+                        "pearlish",
+                        "pearly mani youtube channel",
+                        "uppum mulakum",
+                        "pearle maaney pregnancy",
+                        "pearle maaney pregnant again",
+                        "perley money youtube channel",
+                        "pearle pregnant",
+                        "malayalam actress",
+                        "pearle maaney daughter",
+                        "malayalam vlog",
+                        "pearle maaney nila",
+                        "asianet",
+                        "nitara srinish",
+                        "baby nitara",
+                        "nila pearle maaney"
+                    ],
+                    "categoryId": "24",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "My First Vlog Of 2024 | Pearle Maaney | Baby Nitara | Baby Nila",
+                        "description": "Join Pearle Maaney for her first vlog of 2024, featuring behind the scenes of the noolukettu function and adorable moments with baby Nitara and baby Nila! Don't miss this heartwarming and fun vlog!\n\nFollow me on Spotify : https://open.spotify.com/show/5TWS6FqK6jVGfHadP5yryZ?si=-0AmH309THSk7H4E4gox8A\nSubscribe to our tech channel : https://www.youtube.com/@pearletechnick\nLike me on Facebook @ https://www.facebook.com/PearleMaaney...\nFollow me on Instagram @ https://www.instagram.com/pearlemaany\nFollow Srinish on instagram : @ https://www.instagram.com/srinish_aravind\nFor Sponsorship : pearleproductions2020@gmail.com\n\n#pearlemaaney #srinisharavind #nitarasrinish #nilasrinish #noolukettu"
+                    },
+                    "defaultAudioLanguage": "en-IN"
+                },
+                "contentDetails": {
+                    "duration": "PT33M7S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "true",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "2795498",
+                    "likeCount": "123784",
+                    "favoriteCount": "0",
+                    "commentCount": "4549"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "eBM3LbvjaxjUqJbZsg8LV34b5TU",
+                "id": "6Fx1RLv9bq0",
+                "snippet": {
+                    "publishedAt": "2024-02-16T13:00:05Z",
+                    "channelId": "UCGH6FMbhlmVDUP96nQVYe2Q",
+                    "title": "Oh My Darling Malayalam Movie | What caused Anikha to have overflow during her chums? | Anikha",
+                    "description": "What caused Anikha to have overflow during her chums? Oh My Darling is a 2023 Indian Malayalam-language romantic comedy film directed by Alfred D' Samuel. Love has many faces, but Joel and Jenny love with earnestness, but when their love is tested in the fire of adversity, it has to overcome that. When reality is not what it appears to be, can love survive?\n\n#ohmydarlingmalayalammovie #ohmydarling #anikhasurendran #melvingbabu #mukesh #lena #johnyantony #manjupillai #vijayaraghavan #nandhu #daindavis #trending #likes \n\nMovie Credits :-\nDirected by : Alfred D' Samuel\nWritten by : Jineesh K. Joy\nProduced by : Manoj Sreekanta\nStarring : Anikha Surendran , Melvin G Babu\nCinematography : Ansar Shah\nEdited by : Lijo Paul\nMusic by : Shaan Rahman\n\nClick here to watch :-\n\nDigital Village : https://bitly.ws/3dkkY\n\nValentine's Day Special Mashup : https://youtu.be/NjiCxkPzEtE\n\nLovers Day Special Mashup : https://youtu.be/WO5JGj5ESMg\n\nKavya Madhavan Love Scenes : https://youtu.be/z2N66jQl8nc\n\nChess Super Scenes : https://youtu.be/GfP4Zq01GKw\n\nThree Kings Malayalam Movie Scenes : https://bitly.ws/3cQMj\n\nActresses Suspense Scenes : https://youtu.be/F34bW1N94xc\n\nInnocent Adipoli Mashup - 01 : https://youtu.be/RsPsxggdMC0\n\nSound of Boot : https://bitly.ws/3cMMZ\n\nSeniors Super Scene - 02 : https://youtu.be/vwIlBC9n5ZM\n\nFollow us on our Facebook Page for more updates-\nhttps://www.facebook.com/apimalayalammovies\n\nFor more latest updates follow us on Twitter-\nhttp://www.twitter.com/#!/apifilms \n\nSubscribe us: http://www.youtube.com/apimalayalam\n\nOnline Purchase : http://www.apinternationalfilms.com/\n\nBlog :  http://apinternationalfilms.blogspot.com/\n          http://www.apinternationalfilms.in/",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/6Fx1RLv9bq0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/6Fx1RLv9bq0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/6Fx1RLv9bq0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/6Fx1RLv9bq0/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/6Fx1RLv9bq0/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "API Malayalam Movies",
+                    "tags": [
+                        "Oh My Darling Malayalam Movie",
+                        "Oh My Darling",
+                        "Anikha Surendran",
+                        "Melvin G Babu",
+                        "Alfred D' Samuel",
+                        "Mukesh",
+                        "Lena",
+                        "Johny Antony",
+                        "Manju Pillai",
+                        "Vijayaraghavan",
+                        "Nandhu",
+                        "Dain Davis",
+                        "Ganapathi S. Poduval",
+                        "malayalam",
+                        "latest malayalam movie",
+                        "Bramayugam",
+                        "trending",
+                        "likes",
+                        "oh my darling malayalam movie",
+                        "oh my darling movie",
+                        "oh my darling",
+                        "oh my darling malayalam movie review",
+                        "malayalam latest song",
+                        "malayalam song",
+                        "What caused Anikha to have overflow during her chums?"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "Oh My Darling Malayalam Movie | What caused Anikha to have overflow during her chums? | Anikha",
+                        "description": "What caused Anikha to have overflow during her chums? Oh My Darling is a 2023 Indian Malayalam-language romantic comedy film directed by Alfred D' Samuel. Love has many faces, but Joel and Jenny love with earnestness, but when their love is tested in the fire of adversity, it has to overcome that. When reality is not what it appears to be, can love survive?\n\n#ohmydarlingmalayalammovie #ohmydarling #anikhasurendran #melvingbabu #mukesh #lena #johnyantony #manjupillai #vijayaraghavan #nandhu #daindavis #trending #likes \n\nMovie Credits :-\nDirected by : Alfred D' Samuel\nWritten by : Jineesh K. Joy\nProduced by : Manoj Sreekanta\nStarring : Anikha Surendran , Melvin G Babu\nCinematography : Ansar Shah\nEdited by : Lijo Paul\nMusic by : Shaan Rahman\n\nClick here to watch :-\n\nDigital Village : https://bitly.ws/3dkkY\n\nValentine's Day Special Mashup : https://youtu.be/NjiCxkPzEtE\n\nLovers Day Special Mashup : https://youtu.be/WO5JGj5ESMg\n\nKavya Madhavan Love Scenes : https://youtu.be/z2N66jQl8nc\n\nChess Super Scenes : https://youtu.be/GfP4Zq01GKw\n\nThree Kings Malayalam Movie Scenes : https://bitly.ws/3cQMj\n\nActresses Suspense Scenes : https://youtu.be/F34bW1N94xc\n\nInnocent Adipoli Mashup - 01 : https://youtu.be/RsPsxggdMC0\n\nSound of Boot : https://bitly.ws/3cMMZ\n\nSeniors Super Scene - 02 : https://youtu.be/vwIlBC9n5ZM\n\nFollow us on our Facebook Page for more updates-\nhttps://www.facebook.com/apimalayalammovies\n\nFor more latest updates follow us on Twitter-\nhttp://www.twitter.com/#!/apifilms \n\nSubscribe us: http://www.youtube.com/apimalayalam\n\nOnline Purchase : http://www.apinternationalfilms.com/\n\nBlog :  http://apinternationalfilms.blogspot.com/\n          http://www.apinternationalfilms.in/"
+                    },
+                    "defaultAudioLanguage": "en"
+                },
+                "contentDetails": {
+                    "duration": "PT15M53S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "true",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "284894",
+                    "likeCount": "2660",
+                    "favoriteCount": "0",
+                    "commentCount": "38"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "WK6p_kfo3RzFb3S8WWPI-PGjBEA",
+                "id": "FoNe2U43iSk",
+                "snippet": {
+                    "publishedAt": "2024-02-16T09:15:00Z",
+                    "channelId": "UCfLuT3JwLx8rvHjHfTymekw",
+                    "title": "So Much Nibba Nibbi Love will Make You Jealous (Valentines Roast)",
+                    "description": "Pyaar to bada hi pyara hota hai.\n\nInstagram ► https://www.instagram.com/triggeredinsaan\n\nFacebook ► https://www.facebook.com/realtriggeredinsaan\n\nGaming Channel ► https://www.youtube.com/liveinsaan\n\nDiscord ► https://discord.gg/liveinsaan\n\nTwitter ► https://twitter.com/triggeredinsaan\n\nAbout Me ► My name is Nischay Malhan. I'm from Delhi and I'm an engineering student. Now I am pursuing youtube Full Time. I make family friendly clean comedy videos on this channel for everyone to enjoy with their family. You don't need earphones to watch my videos😂\n\nThanks For Reading😘",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/FoNe2U43iSk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/FoNe2U43iSk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/FoNe2U43iSk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/FoNe2U43iSk/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/FoNe2U43iSk/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Triggered Insaan",
+                    "tags": [
+                        "triggered insaan",
+                        "live insaan",
+                        "valentines day",
+                        "roast",
+                        "funny",
+                        "instagram reels",
+                        "shorts",
+                        "love"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en-IN",
+                    "localized": {
+                        "title": "So Much Nibba Nibbi Love will Make You Jealous (Valentines Roast)",
+                        "description": "Pyaar to bada hi pyara hota hai.\n\nInstagram ► https://www.instagram.com/triggeredinsaan\n\nFacebook ► https://www.facebook.com/realtriggeredinsaan\n\nGaming Channel ► https://www.youtube.com/liveinsaan\n\nDiscord ► https://discord.gg/liveinsaan\n\nTwitter ► https://twitter.com/triggeredinsaan\n\nAbout Me ► My name is Nischay Malhan. I'm from Delhi and I'm an engineering student. Now I am pursuing youtube Full Time. I make family friendly clean comedy videos on this channel for everyone to enjoy with their family. You don't need earphones to watch my videos😂\n\nThanks For Reading😘"
+                    },
+                    "defaultAudioLanguage": "hi"
+                },
+                "contentDetails": {
+                    "duration": "PT11M43S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "3366969",
+                    "likeCount": "354581",
+                    "favoriteCount": "0",
+                    "commentCount": "17912"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "TJnkcY-4cTE1AafMhNa-eh8ucJg",
+                "id": "SZtslrshJcw",
+                "snippet": {
+                    "publishedAt": "2024-02-16T18:45:00Z",
+                    "channelId": "UCkkNMVAtU3CBn0fV_qC6ZJQ",
+                    "title": "Yeh Rishta Kya Kehlata Hai ON SET: Abhira Ne Lagaya Armaan Ko GALE, Dadi Ne Sunayi Sabko BAD NEWS",
+                    "description": "#yrkkh #yrkkhnewpromo #yrkkhupdate #yehrishtakyakehlatahai #yehrishtakyakehlatahainewepisodepromo #samridhishukla #shehzadadhami \n\nVoice Over- Almas Shaikh\nCamera person- Sanjay Madaye \n\n\nFor more videos and daily updates:\nSubscribe Now - https://www.youtube.com/user/tellybytes\n\nFollow Us On Instagram -  https://www.instagram.com/tellybytesofficial/?hl=en \nLike Us On Facebook - https://m.facebook.com/pg/TellyBytes/\nFollow Us On Twitter - TellyBytes (@bytes_telly): https://twitter.com/bytes_telly?s=09",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/SZtslrshJcw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/SZtslrshJcw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/SZtslrshJcw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/SZtslrshJcw/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/SZtslrshJcw/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Telly Bytes - Tele News India",
+                    "tags": [
+                        "yeh rishta kya kehlata hai",
+                        "yeh rishta kya kehlata hai full episode today",
+                        "yeh rishta kya kehlata hai new promo",
+                        "yrkkh full episode today promo",
+                        "star plus yeh rishta kya kehlata hai",
+                        "yeh rishta kya kehlata hai today episode",
+                        "yeh rishta kya kehlata hai today full episode",
+                        "yeh rishta kya kehlata hai aaj ka full episode",
+                        "yrkkh full episode today",
+                        "yrkkh telly bytes",
+                        "yeh rishta kya kehlata hai 17 february 2024",
+                        "yeh rishta on location"
+                    ],
+                    "categoryId": "24",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en-IN",
+                    "localized": {
+                        "title": "Yeh Rishta Kya Kehlata Hai ON SET: Abhira Ne Lagaya Armaan Ko GALE, Dadi Ne Sunayi Sabko BAD NEWS",
+                        "description": "#yrkkh #yrkkhnewpromo #yrkkhupdate #yehrishtakyakehlatahai #yehrishtakyakehlatahainewepisodepromo #samridhishukla #shehzadadhami \n\nVoice Over- Almas Shaikh\nCamera person- Sanjay Madaye \n\n\nFor more videos and daily updates:\nSubscribe Now - https://www.youtube.com/user/tellybytes\n\nFollow Us On Instagram -  https://www.instagram.com/tellybytesofficial/?hl=en \nLike Us On Facebook - https://m.facebook.com/pg/TellyBytes/\nFollow Us On Twitter - TellyBytes (@bytes_telly): https://twitter.com/bytes_telly?s=09"
+                    },
+                    "defaultAudioLanguage": "hi"
+                },
+                "contentDetails": {
+                    "duration": "PT3M49S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "872529",
+                    "likeCount": "6855",
+                    "favoriteCount": "0",
+                    "commentCount": "149"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "dV03i83j_dFKl6oa8DTWmjZsYy0",
+                "id": "2hVD3vgqIBI",
+                "snippet": {
+                    "publishedAt": "2024-02-16T13:30:01Z",
+                    "channelId": "UCSfxFZFzcpYMbOB3A1rWHAg",
+                    "title": "I Made Her a Desi IPL PLAYER | SlayyPop",
+                    "description": "Gangadhar Topley has made it to the IPL, from the villages of Chapra Bihar. Will he fulfil his dream of playing for India.\nJay Shah, keep an eye... Next Virat Kohli is here\n\nInstagram -  @Abhyudaya_Mohan & @GautamiKawale\nhttps://www.instagram.com/abhyudaya_mohan/\nhttps://www.instagram.com/gautamikawale/\n\nSlayyPop videos made by Kshitij",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/2hVD3vgqIBI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/2hVD3vgqIBI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/2hVD3vgqIBI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/2hVD3vgqIBI/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/2hVD3vgqIBI/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "SlayyPop",
+                    "tags": [
+                        "slayypoint",
+                        "slayy pop",
+                        "abhyudaya",
+                        "gautami",
+                        "cricket game",
+                        "ipl",
+                        "india vs england",
+                        "hindi games"
+                    ],
+                    "categoryId": "20",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "I Made Her a Desi IPL PLAYER | SlayyPop",
+                        "description": "Gangadhar Topley has made it to the IPL, from the villages of Chapra Bihar. Will he fulfil his dream of playing for India.\nJay Shah, keep an eye... Next Virat Kohli is here\n\nInstagram -  @Abhyudaya_Mohan & @GautamiKawale\nhttps://www.instagram.com/abhyudaya_mohan/\nhttps://www.instagram.com/gautamikawale/\n\nSlayyPop videos made by Kshitij"
+                    },
+                    "defaultAudioLanguage": "en-IN"
+                },
+                "contentDetails": {
+                    "duration": "PT13M57S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "812359",
+                    "likeCount": "54237",
+                    "favoriteCount": "0",
+                    "commentCount": "1135"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "WEUcz0t5WPqAom-Aru_qEhxXcaQ",
+                "id": "hK6rctIUtpk",
+                "snippet": {
+                    "publishedAt": "2024-02-17T05:37:28Z",
+                    "channelId": "UCi7lxgkjW0ilcJDl5XGHr3Q",
+                    "title": "మేడారం జాతర పోంగ | Medaram Sammakka Sarakka | My Village Show | Gangavva |  Anjimama | Chandu",
+                    "description": "Actors: \nGangavva \nAnjimama \nChandhu\nThirumal gorre \nAkshara \nMadhu elkus \nKannayya\n\nDop:Madhu Aluwala \nEditing: Prudhvi \nWritten & Directed by: Anil kante \nLighting: Baba \nSink sound: pavan\nExecutive producer: prashanth sriram ,Raju Kadire \nProducer: Sriram Srikanth\n\nAny promotions \nEmail : brands@myvillageshow.in",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/hK6rctIUtpk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/hK6rctIUtpk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/hK6rctIUtpk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/hK6rctIUtpk/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/hK6rctIUtpk/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Village Show - Mix",
+                    "tags": [
+                        "gangavva",
+                        "gangavva comedy",
+                        "telugu vlogs",
+                        "gangavva jokes",
+                        "gangavva vlogs",
+                        "my village show",
+                        "my village show comedy",
+                        "jokes",
+                        "village show comedy",
+                        "village show vlogs",
+                        "village vlogs",
+                        "telangana lady",
+                        "old women"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "మేడారం జాతర పోంగ | Medaram Sammakka Sarakka | My Village Show | Gangavva |  Anjimama | Chandu",
+                        "description": "Actors: \nGangavva \nAnjimama \nChandhu\nThirumal gorre \nAkshara \nMadhu elkus \nKannayya\n\nDop:Madhu Aluwala \nEditing: Prudhvi \nWritten & Directed by: Anil kante \nLighting: Baba \nSink sound: pavan\nExecutive producer: prashanth sriram ,Raju Kadire \nProducer: Sriram Srikanth\n\nAny promotions \nEmail : brands@myvillageshow.in"
+                    },
+                    "defaultAudioLanguage": "en-IN"
+                },
+                "contentDetails": {
+                    "duration": "PT18M36S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "188737",
+                    "likeCount": "9340",
+                    "favoriteCount": "0",
+                    "commentCount": "175"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "_axCU0yljGqjFjvnQ7v3LpZtuyU",
+                "id": "7AXWpIWg1w4",
+                "snippet": {
+                    "publishedAt": "2024-02-15T20:32:59Z",
+                    "channelId": "UCgVg6dmZHCxze_ay0bolPew",
+                    "title": "UP POLICE GK GS MARATHON CLASS | UP CONSTABLE GK GS MARATHON CLASS | UPP GS MARATHON CLASS VIVEK SIR",
+                    "description": "UP POLICE GK GS MARATHON CLASS | UP CONSTABLE GK GS MARATHON CLASS | UPP GS MARATHON CLASS BY VIVEK SIR\n\n🔴विवेक सर के CLASS के PDF के लिए विवेक सर के टेलीग्राम GROUP को JOIN कीजिये:-https://t.me/VivekSirNotes\n\n\n🔴सबसे पहले और सटीक UPDATE पाने के लिए (UPP, UPSI, SSC GD, RAILWAY)\nविवेक सर के WHATSAPP चैनेल लिंक , DIRECT WHATSAPP से जुड़े विवेक सर से :- https://whatsapp.com/channel/0029Va5CmT0HQbRxMnkaBh0T\n\n\n\n✅रेलवे परचम बैच 2024 RRB -NTPC | GROUP D | ALP (CBT 1 +CBT 2) TECHNICIAN | RRB JEE  Course \nhttps://exampuredu.page.link/XXJRs4UMZPRDJiGt9\n\n✅Get full UP CONSTABLE PARISHRAM BATCH Course from Exampur Now.\nhttps://exampuredu.page.link/rLXg9dPZm2KM7JwA6\n\n✅Get full UP SI PARISHRAM BATCH Course from Exampur Now.\nhttps://exampuredu.page.link/dSX8fVMLSPSdBMra9\n\n✅Get full PARISHRAM MAHAA BATCH Course from Exampur Now.\nhttps://exampuredu.page.link/jzThcXMNKguoxzXZA\n\n✅Get full RRB ALP (CBT-1+CBT-2) SHATABDI BATCH 2024 Course from Exampur Now.\nhttps://exampuredu.page.link/QayaWsyuSkeJnij59\n\n✅Get full RRB ALP CBT-1 SHATABDI BATCH 2024 Course from Exampur Now.\nhttps://exampuredu.page.link/CSNmxKmWxvGgwkwq5\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n📥सभी क्लास की 𝐏𝐃𝐅 के लिए 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 करें Examपुर App📲:-https://shorturl.at/uyBC0\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n📢 Our Courses📚:-\n✅IB 2023 TIGER BATCH:-https://exampuredu.page.link/rQrpyForiPrUvdFy9\n✅UPPCS RO/ARO 2023 SAFALTA BATCH:-https://exampuredu.page.link/h4tJ6PrVAcUjgtpHA\n✅TRIDEV COMBO BATCH 2023 :- https://exampuredu.page.link/U26q3ZE6JqFY74E78\n✅TRIDEV BATCH 2023 HINDI BY VIVEK SIR :- https://exampuredu.page.link/An15wTbiLNbh148x5\n✅TRIDEV BATCH 2023 MATHS BY VIPUL SIR :- https://exampuredu.page.link/TckzDkzeC6UZBJHo8\n✅TRIDEV BATCH 2023 REASONING BY PREETI MAAM :- https://exampuredu.page.link/enwNWLQePudNQmEr6\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n📢 𝐎𝐮𝐫 Books📚:-\n✅Up Police Constable 15 Practice Set :- https://www.flipkart.com/up-police-constable-15-practice-set/p/itm6aac7cb2c07fe?pid=RBKGTYUGPNCZNZED\n✅Up Police Constable Previous Year Question 2023 :-https://www.flipkart.com/up-police-constable-15-practice-set/p/itm6aac7cb2c07fe?pid=RBKGTYUTE7VDFZUV\n✅Up Police Constable (Practice Set+pyq) Combo :-https://www.flipkart.com/up-police-constable-15-practice-set/p/itm6aac7cb2c07fe?pid=RBKGTYVFSMSQ6X6J\n\n\n📢 𝐎𝐮𝐫 𝗡𝗼𝘁𝗲𝘀📚:-\n✅Upsi Class Notes Complete Syllabus 18 Notes Book 2022-23 :-https://www.flipkart.com/up-police-constable-15-practice-set/p/itm6aac7cb2c07fe?pid=RBKGMGXAHQNMK3HG\n✅Up Police Constable Class Notes Complete Syllabus 18 Notes Book 2022-23:-https://www.flipkart.com/up-police-constable-15-practice-set/p/itm6aac7cb2c07fe?pid=RBKGKX4EVZX6VDQ7\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n👥📲𝐅𝐎𝐋𝐋𝐎𝐖 𝐔𝐒 𝐎𝐍:📲 \n📲𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸: https://www.facebook.com/exampurofficial \n📲𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺: https://https://www.instagram.com/exampurofficial/?hl=en\n📲𝗧𝘄𝗶𝘁𝘁𝗲𝗿: https://twitter.com/exampuroficial \n📲𝗟𝗶𝗻𝗸𝗱𝗶𝗻: https://www.linkedin.com/company/exam...\n\n00:00:00  up police gk gs \n00:01:58  पुस्तकें, लेखक \n00:18:10  दिवस\n00:31:37  पुरुस्कार\n00:46:14  संगठन \n00:57:36  देश राजधानी और मुद्रा \n01:05:17   विज्ञान\n01:41:40   कला-संस्कृति \n02:03:20   computer\n02:06:21   history, polity\n03:01:44  geography, Gst,\n03:57:58  मानवाधिकार \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n🔴𝐉𝐎𝐈𝐍 𝐎𝐔𝐑 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋🔴 \n📲परीक्षागढ़: https://t.me/parikshagarh \n📲𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺: https://t.me/exampurofficialtelegram \n📲The Golden Army Current Affairs™️©️: https://t.me/currentaffairsviveksir\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n🆘 Helpline Connect🆘 \n☎️ For any help, please call us at 📞 9873111552 \n📲whatsapp on  8448116245 (https://wa.link/nerwtr)\n📧 Email: help@exampur.com\n🌎 Website: App.exampur.com\n\n#uppolicegkgsclass #uppolicegkgsmarathonclass #uppolicegkgs #uppgkgsclass #uppgkgs #uppgkgsmarathonclass #upp #upp2024 #uppoliceconstable #uppoliceconstable2024 #exampur #viveksir",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/7AXWpIWg1w4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/7AXWpIWg1w4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/7AXWpIWg1w4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/7AXWpIWg1w4/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/7AXWpIWg1w4/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Examपुर",
+                    "tags": [
+                        "exampur",
+                        "up police gk gs",
+                        "up police gk gs marathon",
+                        "up police gk gs practice set",
+                        "up police gk gs class",
+                        "up police constable gk gs marathon class",
+                        "up police constable gk gs class",
+                        "up constable gk gs practice set",
+                        "up constable gk gs marathon class",
+                        "up constable gk gs mock test",
+                        "up constable gk gs model paper",
+                        "upp gk gs marathon class",
+                        "upp gk gs class",
+                        "upp gs marathon",
+                        "upp",
+                        "upp 2024",
+                        "up police constable",
+                        "up police constable 2024",
+                        "up police gk gs by vivek sir"
+                    ],
+                    "categoryId": "27",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "UP POLICE GK GS MARATHON CLASS | UP CONSTABLE GK GS MARATHON CLASS | UPP GS MARATHON CLASS VIVEK SIR",
+                        "description": "UP POLICE GK GS MARATHON CLASS | UP CONSTABLE GK GS MARATHON CLASS | UPP GS MARATHON CLASS BY VIVEK SIR\n\n🔴विवेक सर के CLASS के PDF के लिए विवेक सर के टेलीग्राम GROUP को JOIN कीजिये:-https://t.me/VivekSirNotes\n\n\n🔴सबसे पहले और सटीक UPDATE पाने के लिए (UPP, UPSI, SSC GD, RAILWAY)\nविवेक सर के WHATSAPP चैनेल लिंक , DIRECT WHATSAPP से जुड़े विवेक सर से :- https://whatsapp.com/channel/0029Va5CmT0HQbRxMnkaBh0T\n\n\n\n✅रेलवे परचम बैच 2024 RRB -NTPC | GROUP D | ALP (CBT 1 +CBT 2) TECHNICIAN | RRB JEE  Course \nhttps://exampuredu.page.link/XXJRs4UMZPRDJiGt9\n\n✅Get full UP CONSTABLE PARISHRAM BATCH Course from Exampur Now.\nhttps://exampuredu.page.link/rLXg9dPZm2KM7JwA6\n\n✅Get full UP SI PARISHRAM BATCH Course from Exampur Now.\nhttps://exampuredu.page.link/dSX8fVMLSPSdBMra9\n\n✅Get full PARISHRAM MAHAA BATCH Course from Exampur Now.\nhttps://exampuredu.page.link/jzThcXMNKguoxzXZA\n\n✅Get full RRB ALP (CBT-1+CBT-2) SHATABDI BATCH 2024 Course from Exampur Now.\nhttps://exampuredu.page.link/QayaWsyuSkeJnij59\n\n✅Get full RRB ALP CBT-1 SHATABDI BATCH 2024 Course from Exampur Now.\nhttps://exampuredu.page.link/CSNmxKmWxvGgwkwq5\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n📥सभी क्लास की 𝐏𝐃𝐅 के लिए 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 करें Examपुर App📲:-https://shorturl.at/uyBC0\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n📢 Our Courses📚:-\n✅IB 2023 TIGER BATCH:-https://exampuredu.page.link/rQrpyForiPrUvdFy9\n✅UPPCS RO/ARO 2023 SAFALTA BATCH:-https://exampuredu.page.link/h4tJ6PrVAcUjgtpHA\n✅TRIDEV COMBO BATCH 2023 :- https://exampuredu.page.link/U26q3ZE6JqFY74E78\n✅TRIDEV BATCH 2023 HINDI BY VIVEK SIR :- https://exampuredu.page.link/An15wTbiLNbh148x5\n✅TRIDEV BATCH 2023 MATHS BY VIPUL SIR :- https://exampuredu.page.link/TckzDkzeC6UZBJHo8\n✅TRIDEV BATCH 2023 REASONING BY PREETI MAAM :- https://exampuredu.page.link/enwNWLQePudNQmEr6\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n📢 𝐎𝐮𝐫 Books📚:-\n✅Up Police Constable 15 Practice Set :- https://www.flipkart.com/up-police-constable-15-practice-set/p/itm6aac7cb2c07fe?pid=RBKGTYUGPNCZNZED\n✅Up Police Constable Previous Year Question 2023 :-https://www.flipkart.com/up-police-constable-15-practice-set/p/itm6aac7cb2c07fe?pid=RBKGTYUTE7VDFZUV\n✅Up Police Constable (Practice Set+pyq) Combo :-https://www.flipkart.com/up-police-constable-15-practice-set/p/itm6aac7cb2c07fe?pid=RBKGTYVFSMSQ6X6J\n\n\n📢 𝐎𝐮𝐫 𝗡𝗼𝘁𝗲𝘀📚:-\n✅Upsi Class Notes Complete Syllabus 18 Notes Book 2022-23 :-https://www.flipkart.com/up-police-constable-15-practice-set/p/itm6aac7cb2c07fe?pid=RBKGMGXAHQNMK3HG\n✅Up Police Constable Class Notes Complete Syllabus 18 Notes Book 2022-23:-https://www.flipkart.com/up-police-constable-15-practice-set/p/itm6aac7cb2c07fe?pid=RBKGKX4EVZX6VDQ7\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n👥📲𝐅𝐎𝐋𝐋𝐎𝐖 𝐔𝐒 𝐎𝐍:📲 \n📲𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸: https://www.facebook.com/exampurofficial \n📲𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺: https://https://www.instagram.com/exampurofficial/?hl=en\n📲𝗧𝘄𝗶𝘁𝘁𝗲𝗿: https://twitter.com/exampuroficial \n📲𝗟𝗶𝗻𝗸𝗱𝗶𝗻: https://www.linkedin.com/company/exam...\n\n00:00:00  up police gk gs \n00:01:58  पुस्तकें, लेखक \n00:18:10  दिवस\n00:31:37  पुरुस्कार\n00:46:14  संगठन \n00:57:36  देश राजधानी और मुद्रा \n01:05:17   विज्ञान\n01:41:40   कला-संस्कृति \n02:03:20   computer\n02:06:21   history, polity\n03:01:44  geography, Gst,\n03:57:58  मानवाधिकार \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n🔴𝐉𝐎𝐈𝐍 𝐎𝐔𝐑 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋🔴 \n📲परीक्षागढ़: https://t.me/parikshagarh \n📲𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺: https://t.me/exampurofficialtelegram \n📲The Golden Army Current Affairs™️©️: https://t.me/currentaffairsviveksir\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n🆘 Helpline Connect🆘 \n☎️ For any help, please call us at 📞 9873111552 \n📲whatsapp on  8448116245 (https://wa.link/nerwtr)\n📧 Email: help@exampur.com\n🌎 Website: App.exampur.com\n\n#uppolicegkgsclass #uppolicegkgsmarathonclass #uppolicegkgs #uppgkgsclass #uppgkgs #uppgkgsmarathonclass #upp #upp2024 #uppoliceconstable #uppoliceconstable2024 #exampur #viveksir"
+                    },
+                    "defaultAudioLanguage": "en-IN"
+                },
+                "contentDetails": {
+                    "duration": "PT4H49M45S",
+                    "dimension": "2d",
+                    "definition": "sd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "885319",
+                    "likeCount": "106208",
+                    "favoriteCount": "0",
+                    "commentCount": "2238"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "xpfQHK9Nsy0iXU8PDtWoRO72mO4",
+                "id": "roX7EqczsUs",
+                "snippet": {
+                    "publishedAt": "2024-02-14T12:39:22Z",
+                    "channelId": "UC2woPAI_KMAR25R_oezEQqw",
+                    "title": "Tillu Square - Theatrical Trailer | Siddu, AnupamaParameswaran | MallikRam | March 29th Release",
+                    "description": "Watch the Theatrical Trailer of Tillu Square | Siddu, AnupamaParameswaran | MallikRam | March 29th Release\n\nTillu Square is our upcoming telugu feature film starring Sidhu, Anupama Parameswaran in lead roles. Directed by Mallik Ram. Editing by Navin Nooli. Cinematography by Sai Prakash Ummadisingu. Music by Ram Miriyala & Achu Rajamani. Produced by Suryadevara Naga Vamsi & Sai Soujanya.\n\n#TilluSquare #TilluSquareTrailer #Siddu #Anupama \n\nWorldwide Grand Release in theatres on March 29th, 2024.\n\nMovie Name: Tillu Square\nDirector : Mallik Ram \nDOP: Sai Prakash Ummadisingu\nEditor : Navin Nooli \nBackground Score: Thaman \nMusic Director: Ram Miriyala and Achu Rajamani \nArt: A.S. Prakash\nProducer: Suryadevara Naga Vamsi & Sai Soujanya\nBanner: Sithara Entertainments, Fortune Four Cinemas\nPresenter: Srikara Studios\nPRO: Lakshmi Venugopal\nAudio: Aditya Music\n\nTheatrical Trailer Music Credits :\nComposer : Sricharan Pakala\nProgrammed by Joy Rayarala, Shubhashish Manchala\nGuitars : Sricharan Pakala\nVocals : Sricharan Pakala, Siddhu Jonnalagadda\nIndian Percussions : Anil Robin, Chiranjeevi Mothukuri\nTrailer Final Mix : Devi Krishna Kadiyala (Ramanaidu Studios)\n\n\n► Subscribe: http://youtube.com/SitharaEntertainments\n► Like: https://facebook.com/SitharaEntertainments\n► Follow: http://instagram.com/SitharaEntertainments\n► Follow: https://twitter.com/SitharaEnts",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/roX7EqczsUs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/roX7EqczsUs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/roX7EqczsUs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/roX7EqczsUs/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/roX7EqczsUs/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Sithara Entertainments",
+                    "tags": [
+                        "Sithara Entertainments",
+                        "tillu square trailer",
+                        "tillu square theatrical trailer",
+                        "tillu square movie trailer",
+                        "siddu tillu square",
+                        "anupama",
+                        "Anupama parameswaran",
+                        "mallik ram",
+                        "ram miriyala",
+                        "thaman",
+                        "achu rajamani",
+                        "naga vamsi",
+                        "Radhika song",
+                        "tillu square teaser",
+                        "tillu square songs",
+                        "ticket eh konakunda song",
+                        "tillu square official trailer",
+                        "latest telugu trailers",
+                        "telugu movie trailers 2024",
+                        "dj tillu trailer",
+                        "tillu square glimpse",
+                        "tillu square telugu trailer"
+                    ],
+                    "categoryId": "24",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Tillu Square - Theatrical Trailer | Siddu, AnupamaParameswaran | MallikRam | March 29th Release",
+                        "description": "Watch the Theatrical Trailer of Tillu Square | Siddu, AnupamaParameswaran | MallikRam | March 29th Release\n\nTillu Square is our upcoming telugu feature film starring Sidhu, Anupama Parameswaran in lead roles. Directed by Mallik Ram. Editing by Navin Nooli. Cinematography by Sai Prakash Ummadisingu. Music by Ram Miriyala & Achu Rajamani. Produced by Suryadevara Naga Vamsi & Sai Soujanya.\n\n#TilluSquare #TilluSquareTrailer #Siddu #Anupama \n\nWorldwide Grand Release in theatres on March 29th, 2024.\n\nMovie Name: Tillu Square\nDirector : Mallik Ram \nDOP: Sai Prakash Ummadisingu\nEditor : Navin Nooli \nBackground Score: Thaman \nMusic Director: Ram Miriyala and Achu Rajamani \nArt: A.S. Prakash\nProducer: Suryadevara Naga Vamsi & Sai Soujanya\nBanner: Sithara Entertainments, Fortune Four Cinemas\nPresenter: Srikara Studios\nPRO: Lakshmi Venugopal\nAudio: Aditya Music\n\nTheatrical Trailer Music Credits :\nComposer : Sricharan Pakala\nProgrammed by Joy Rayarala, Shubhashish Manchala\nGuitars : Sricharan Pakala\nVocals : Sricharan Pakala, Siddhu Jonnalagadda\nIndian Percussions : Anil Robin, Chiranjeevi Mothukuri\nTrailer Final Mix : Devi Krishna Kadiyala (Ramanaidu Studios)\n\n\n► Subscribe: http://youtube.com/SitharaEntertainments\n► Like: https://facebook.com/SitharaEntertainments\n► Follow: http://instagram.com/SitharaEntertainments\n► Follow: https://twitter.com/SitharaEnts"
+                    },
+                    "defaultAudioLanguage": "te"
+                },
+                "contentDetails": {
+                    "duration": "PT3M36S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "6425318",
+                    "likeCount": "273983",
+                    "favoriteCount": "0",
+                    "commentCount": "4621"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "kOAffim-volEsvZcfkzovDHPFYQ",
+                "id": "qqrpMRDuPfc",
+                "snippet": {
+                    "publishedAt": "2024-02-14T17:00:47Z",
+                    "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+                    "title": "Godzilla x Kong: The New Empire | Official Trailer 2",
+                    "description": "The guardians of nature. The protectors of humanity. The rise of a new empire. #GodzillaXKong - Only in Theaters March 29.\n\nThe epic battle continues! Legendary Pictures’ cinematic Monsterverse follows up the explosive showdown of “Godzilla vs. Kong” with an all-new adventure that pits the almighty Kong and the fearsome Godzilla against a colossal undiscovered threat hidden within our world, challenging their very existence—and our own. “Godzilla x Kong: The New Empire” delves further into the histories of these Titans and their origins, as well as the mysteries of Skull Island and beyond, while uncovering the mythic battle that helped forge these extraordinary beings and tied them to humankind forever.\n\nOnce again at the helm is director Adam Wingard. The film stars Rebecca Hall (“Godzilla vs. Kong,” “The Night House”), Brian Tyree Henry (“Godzilla vs. Kong,” “Bullet Train”), Dan Stevens (“Gaslit,” “Legion,” “Beauty and the Beast”), Kaylee Hottle (“Godzilla vs. Kong”), Alex Ferns (“The Batman,” “Wrath of Man,” “Chernobyl”) and Fala Chen (“Irma Vep,” “Shang Chi and the Legend of the Ten Rings”).\n\nThe screenplay is by Terry Rossio (“Godzilla vs. Kong” the “Pirates of the Caribbean” series) and Simon Barrett (“You’re Next”) and Jeremy Slater (“Moon Knight”), from a story by Rossio & Wingard & Barrett, based on the character “Godzilla” owned and created by TOHO Co., Ltd. The film is produced by Mary Parent, Alex Garcia, Eric Mcleod, Thomas Tull and Brian Rogers. The executive producers are Wingard, Jen Conroy, Jay Ashenfelter, Yoshimitsu Banno, Kenji Okuhira.\n\nOnce again, Wingard is collaborating with director of photography Ben Seresin (“Godzilla vs. Kong,” “World War Z”), production designer Tom Hammock (“Godzilla vs. Kong,” “X,” “The Guest”), editor Josh Schaeffer (“Godzilla vs. Kong,” “Molly’s Game”), costume designer Emily Seresin (“The Invisible Man,” “Top of the Lake”). The composers are Tom Holkenborg (“Godzilla vs. Kong,” “Mad Max: Fury Road”) and Antonio Di Iorio (additional music on “Godzilla vs. Kong,” the “Sonic the Hedgehog” films).\n\nWarner Bros. Pictures and Legendary Pictures Present a Legendary Pictures Production, A Film By Adam Wingard, “Godzilla x Kong: The New Empire.” It is slated for release nationwide only in theaters and IMAX on March 29, 2024 and beginning 27 March 2024 internationally, distributed by Warner Bros. Pictures except in Japan, where the film will be distributed by Toho Co., Ltd and in mainland China, where it will be distributed by Legendary East.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/qqrpMRDuPfc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/qqrpMRDuPfc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/qqrpMRDuPfc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/qqrpMRDuPfc/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/qqrpMRDuPfc/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Warner Bros. Pictures",
+                    "tags": [
+                        "2024",
+                        "Adam Wingard",
+                        "Brian Tyree Henry",
+                        "Coming Soon",
+                        "Dan Stevens",
+                        "Godzilla",
+                        "Godzilla x Kong",
+                        "Godzilla x Kong: The New Empire Kong",
+                        "Jeremy Slater",
+                        "King Kong",
+                        "Legendary",
+                        "Mini Kong",
+                        "Monsterverse",
+                        "Movie",
+                        "Rebecca Hall",
+                        "Simon Barrett",
+                        "Skar King",
+                        "Terry Rossio",
+                        "Trailer",
+                        "WB",
+                        "Warner Bros",
+                        "Warner Bros Discovery",
+                        "Warner Brothers"
+                    ],
+                    "categoryId": "1",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Godzilla x Kong: The New Empire | Official Trailer 2",
+                        "description": "The guardians of nature. The protectors of humanity. The rise of a new empire. #GodzillaXKong - Only in Theaters March 29.\n\nThe epic battle continues! Legendary Pictures’ cinematic Monsterverse follows up the explosive showdown of “Godzilla vs. Kong” with an all-new adventure that pits the almighty Kong and the fearsome Godzilla against a colossal undiscovered threat hidden within our world, challenging their very existence—and our own. “Godzilla x Kong: The New Empire” delves further into the histories of these Titans and their origins, as well as the mysteries of Skull Island and beyond, while uncovering the mythic battle that helped forge these extraordinary beings and tied them to humankind forever.\n\nOnce again at the helm is director Adam Wingard. The film stars Rebecca Hall (“Godzilla vs. Kong,” “The Night House”), Brian Tyree Henry (“Godzilla vs. Kong,” “Bullet Train”), Dan Stevens (“Gaslit,” “Legion,” “Beauty and the Beast”), Kaylee Hottle (“Godzilla vs. Kong”), Alex Ferns (“The Batman,” “Wrath of Man,” “Chernobyl”) and Fala Chen (“Irma Vep,” “Shang Chi and the Legend of the Ten Rings”).\n\nThe screenplay is by Terry Rossio (“Godzilla vs. Kong” the “Pirates of the Caribbean” series) and Simon Barrett (“You’re Next”) and Jeremy Slater (“Moon Knight”), from a story by Rossio & Wingard & Barrett, based on the character “Godzilla” owned and created by TOHO Co., Ltd. The film is produced by Mary Parent, Alex Garcia, Eric Mcleod, Thomas Tull and Brian Rogers. The executive producers are Wingard, Jen Conroy, Jay Ashenfelter, Yoshimitsu Banno, Kenji Okuhira.\n\nOnce again, Wingard is collaborating with director of photography Ben Seresin (“Godzilla vs. Kong,” “World War Z”), production designer Tom Hammock (“Godzilla vs. Kong,” “X,” “The Guest”), editor Josh Schaeffer (“Godzilla vs. Kong,” “Molly’s Game”), costume designer Emily Seresin (“The Invisible Man,” “Top of the Lake”). The composers are Tom Holkenborg (“Godzilla vs. Kong,” “Mad Max: Fury Road”) and Antonio Di Iorio (additional music on “Godzilla vs. Kong,” the “Sonic the Hedgehog” films).\n\nWarner Bros. Pictures and Legendary Pictures Present a Legendary Pictures Production, A Film By Adam Wingard, “Godzilla x Kong: The New Empire.” It is slated for release nationwide only in theaters and IMAX on March 29, 2024 and beginning 27 March 2024 internationally, distributed by Warner Bros. Pictures except in Japan, where the film will be distributed by Toho Co., Ltd and in mainland China, where it will be distributed by Legendary East."
+                    },
+                    "defaultAudioLanguage": "en-US"
+                },
+                "contentDetails": {
+                    "duration": "PT3M4S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "true",
+                    "licensedContent": false,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "14459350",
+                    "likeCount": "412177",
+                    "favoriteCount": "0",
+                    "commentCount": "24911"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "v3xJIZTbPV9DbA1cTlg8MpSVFbw",
+                "id": "bkCcI8QvLEo",
+                "snippet": {
+                    "publishedAt": "2024-02-16T05:30:12Z",
+                    "channelId": "UC7SUNWBflDLQ4MNJ8E5TJUw",
+                    "title": "US నుంచి హరిణి & ఆయాన్ష్  కి మేము తెచ్చిన Gifts || Neeli Meghaalaloo || Tamada Media",
+                    "description": "We are professional from TV industry. we have acted in many telugu serials . we are here  to entertain you guys. For more videos do like share and comment dont forget to subscribe. https://bit.ly/3u1448L\n\nPowered BY #TamadaMedia\n\nFollow us on Insta \nhttps://www.instagram.com/indra_actor_official/?hl=en\nhttps://www.instagram.com/raamimeghna/?hl=en\n\nTo Follow : NMFoods On Insta\nhttps://www.instagram.com/nmfoodsofficial/?igshid=YmMyMTA2M2Y%3D\n\n\n#NEELIMEGHAALALOO  #indraneil #meghnaraami #Gifts #USGifts",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/bkCcI8QvLEo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/bkCcI8QvLEo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/bkCcI8QvLEo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/bkCcI8QvLEo/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/bkCcI8QvLEo/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Neeli Meghaalaloo",
+                    "tags": [
+                        "Gifts from usa",
+                        "Us Gifts",
+                        "USA to India",
+                        "America Tour",
+                        "USA tour",
+                        "Neeli meghalalo US Videos",
+                        "meghna raami",
+                        "Neeli Meghaalaloo",
+                        "indraneil",
+                        "meghnaraami",
+                        "neelimeghalaloo",
+                        "indraneel meghana youtube channel",
+                        "neeli meghalalo youtube channel",
+                        "neeli meghaalaloo video",
+                        "neelimeghana vlog",
+                        "neeli meghana new video",
+                        "indraneel",
+                        "indraniel",
+                        "Meghana US Tour",
+                        "Meghana",
+                        "telugu celebrity",
+                        "meghana latest video",
+                        "home made food",
+                        "food vlog",
+                        "NM foods",
+                        "yummy recipe",
+                        "funny videos",
+                        "short videos"
+                    ],
+                    "categoryId": "24",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en-IN",
+                    "localized": {
+                        "title": "US నుంచి హరిణి & ఆయాన్ష్  కి మేము తెచ్చిన Gifts || Neeli Meghaalaloo || Tamada Media",
+                        "description": "We are professional from TV industry. we have acted in many telugu serials . we are here  to entertain you guys. For more videos do like share and comment dont forget to subscribe. https://bit.ly/3u1448L\n\nPowered BY #TamadaMedia\n\nFollow us on Insta \nhttps://www.instagram.com/indra_actor_official/?hl=en\nhttps://www.instagram.com/raamimeghna/?hl=en\n\nTo Follow : NMFoods On Insta\nhttps://www.instagram.com/nmfoodsofficial/?igshid=YmMyMTA2M2Y%3D\n\n\n#NEELIMEGHAALALOO  #indraneil #meghnaraami #Gifts #USGifts"
+                    },
+                    "defaultAudioLanguage": "te"
+                },
+                "contentDetails": {
+                    "duration": "PT27M20S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "388797",
+                    "likeCount": "8760",
+                    "favoriteCount": "0"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "SLA6QTtQPNeSfHtJLuMNDsuqZgE",
+                "id": "V2PrWcqMybI",
+                "snippet": {
+                    "publishedAt": "2024-02-16T00:45:01Z",
+                    "channelId": "UCJfeUWkrU4JwIJfP-usd-_w",
+                    "title": "#VIDEO | Khesari Lal Yadav, Shilpi Raj | Mamla Chori Ke | FT.Sapna Chauhan | Bhojpuri Holi Song 2024",
+                    "description": "Subscribe Now:-  https://goo.gl/j2d2Th\n\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- https://goo.gl/j2d2Th\n\nVisit our website to download our songs and videos: http://www.khesarientertainment.in\n\nLike Us On Facebook - https://www.facebook.com/khesarimusicworld/\n\nAlbum :-  मामला चोरी के\nSong :- Mamla Chori Ke\nSinger :- Khesari Lal Yadav & Shilpi Raj \nLyrics :- Krishna Bedardi\nMusic :- Arya Sharma\nDirector & Choreographer :- Lakkie Vishwakarma\nDOP :- Yogesh Singh\nEditor :- Anand Kumar\nDI :- Rohit Singh\nArtwork - Arun Dev \n\nDigital Managed By :- Global Music Junction Pvt. Ltd.\nCompany/Label - Khesari Music World",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/V2PrWcqMybI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/V2PrWcqMybI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/V2PrWcqMybI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/V2PrWcqMybI/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/V2PrWcqMybI/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Khesari Music World",
+                    "tags": [
+                        "Khesari Lal Yadav",
+                        "khesari lal yadav song",
+                        "khesari lal yadav holi song 2024",
+                        "khesari lal yadav ka new hit holi song",
+                        "khesari lal new holi geet",
+                        "khesari lal yadav shilpi raj holi song 2024",
+                        "khesari lal yadav hits",
+                        "मामला चोरी के",
+                        "mamla chori ke khesari lal yadav",
+                        "khesari lal yadav holi video song",
+                        "khesari lal holi teaser 2024",
+                        "khesari lal yadav holi teaser",
+                        "mamla chori ke holi song",
+                        "first holi khesari lal",
+                        "khesari lal holi ka gana",
+                        "mamla chori ke video",
+                        "mamla choli chori ke"
+                    ],
+                    "categoryId": "10",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "hi",
+                    "localized": {
+                        "title": "#VIDEO | Khesari Lal Yadav, Shilpi Raj | Mamla Chori Ke | FT.Sapna Chauhan | Bhojpuri Holi Song 2024",
+                        "description": "Subscribe Now:-  https://goo.gl/j2d2Th\n\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- https://goo.gl/j2d2Th\n\nVisit our website to download our songs and videos: http://www.khesarientertainment.in\n\nLike Us On Facebook - https://www.facebook.com/khesarimusicworld/\n\nAlbum :-  मामला चोरी के\nSong :- Mamla Chori Ke\nSinger :- Khesari Lal Yadav & Shilpi Raj \nLyrics :- Krishna Bedardi\nMusic :- Arya Sharma\nDirector & Choreographer :- Lakkie Vishwakarma\nDOP :- Yogesh Singh\nEditor :- Anand Kumar\nDI :- Rohit Singh\nArtwork - Arun Dev \n\nDigital Managed By :- Global Music Junction Pvt. Ltd.\nCompany/Label - Khesari Music World"
+                    },
+                    "defaultAudioLanguage": "bh"
+                },
+                "contentDetails": {
+                    "duration": "PT3M31S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "1144575",
+                    "likeCount": "120421",
+                    "favoriteCount": "0",
+                    "commentCount": "13567"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "X68pM47ZCj7WoQd2rDH6SI75jCE",
+                "id": "w2oNiugA554",
+                "snippet": {
+                    "publishedAt": "2024-02-16T10:46:09Z",
+                    "channelId": "UCvrhwpnp2DHYQ1CbXby9ypQ",
+                    "title": "Baakiyalakshmi | 16th & 17th February 2024 - Promo",
+                    "description": "பாக்கியலட்சுமி - திங்கள் முதல் சனி இரவு 8:30 மணிக்கு நம்ம விஜய் டிவில.. Click here https://www.hotstar.com/in/tv/baakiyalakshmi/s-2560 to watch the show on hotstar.        #Baakiyalakshmi #VijayTV #VijayTelevision #RedefiningEntertainment #StarVijayTV #StarVijay #TamilTV #Bhagyalakshmi",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/w2oNiugA554/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/w2oNiugA554/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/w2oNiugA554/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/w2oNiugA554/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/w2oNiugA554/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Vijay Television",
+                    "tags": [
+                        "Baakiyalakshmi",
+                        "New Fiction",
+                        "New Serial",
+                        "Fiction",
+                        "தமிழ்",
+                        "விஜய்",
+                        "டிவி",
+                        "தொலைக்காட்சி",
+                        "Vijay",
+                        "Star",
+                        "Vijay TV",
+                        "Star Vijay",
+                        "Star Vijay TV",
+                        "தொலைகாட்சி",
+                        "Tamil TV",
+                        "Tamil Shows"
+                    ],
+                    "categoryId": "24",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "Baakiyalakshmi | 16th & 17th February 2024 - Promo",
+                        "description": "பாக்கியலட்சுமி - திங்கள் முதல் சனி இரவு 8:30 மணிக்கு நம்ம விஜய் டிவில.. Click here https://www.hotstar.com/in/tv/baakiyalakshmi/s-2560 to watch the show on hotstar.        #Baakiyalakshmi #VijayTV #VijayTelevision #RedefiningEntertainment #StarVijayTV #StarVijay #TamilTV #Bhagyalakshmi"
+                    },
+                    "defaultAudioLanguage": "en"
+                },
+                "contentDetails": {
+                    "duration": "PT44S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "1843858",
+                    "likeCount": "23526",
+                    "favoriteCount": "0",
+                    "commentCount": "410"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "3jDnwJNV-Z4ePTnxkKmmxh9zPkc",
+                "id": "h3iscJZknrk",
+                "snippet": {
+                    "publishedAt": "2024-02-14T14:08:34Z",
+                    "channelId": "UC9I8DWhqm5q7U_4fhfDwZIw",
+                    "title": "I Proposed 20 Actress And THEY REPLIED !!",
+                    "description": "The astrologer whom I asked about my 2024 is on Astrotalk.\nDownload the App - https://astrotalk.com/link/arjoud\nYour first chat is free from my link\n\nWatch me LIVE ON : https://www.youtube.com/Arjyoulive\n\nMy instagram : https://www.instagram.com/arjyou_/\nMy Facebook page : https://www.facebook.com/arjunsundaresanofficial/\n\nEdited by : JR Bharath  ( https://www.instagram.com/j.r_bharath )\n\n⚙️My Setup⚙️\n\nCamera : https://amzn.to/2KIZAQc\n\nHeadset : https://amzn.to/396yfj5 \n\nKeyboard: https://amzn.to/2LaFJsO\n\nMouse: https://amzn.to/2LdVJKt\n\nMicrophone : https://amzn.to/3pCYAM6\n\nMicrophone Stand : https://amzn.to/3o6eRsG\n\nWebcam : https://amzn.to/2JyOHQ8\nDisclaimer : DISCLAIMER: Please don't go out of your way to or hate on anyone I talk about in my videos, this channel is to entertain people and I usually focus on joking about what the people are doing not the individual themselves, please don't go spreading hate it's all for laughs\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n\nThank you !",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/h3iscJZknrk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/h3iscJZknrk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/h3iscJZknrk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/h3iscJZknrk/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/h3iscJZknrk/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Arjyou",
+                    "tags": [
+                        "Arjyou",
+                        "Arjyou reaction",
+                        "Arjyoulive"
+                    ],
+                    "categoryId": "24",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "I Proposed 20 Actress And THEY REPLIED !!",
+                        "description": "The astrologer whom I asked about my 2024 is on Astrotalk.\nDownload the App - https://astrotalk.com/link/arjoud\nYour first chat is free from my link\n\nWatch me LIVE ON : https://www.youtube.com/Arjyoulive\n\nMy instagram : https://www.instagram.com/arjyou_/\nMy Facebook page : https://www.facebook.com/arjunsundaresanofficial/\n\nEdited by : JR Bharath  ( https://www.instagram.com/j.r_bharath )\n\n⚙️My Setup⚙️\n\nCamera : https://amzn.to/2KIZAQc\n\nHeadset : https://amzn.to/396yfj5 \n\nKeyboard: https://amzn.to/2LaFJsO\n\nMouse: https://amzn.to/2LdVJKt\n\nMicrophone : https://amzn.to/3pCYAM6\n\nMicrophone Stand : https://amzn.to/3o6eRsG\n\nWebcam : https://amzn.to/2JyOHQ8\nDisclaimer : DISCLAIMER: Please don't go out of your way to or hate on anyone I talk about in my videos, this channel is to entertain people and I usually focus on joking about what the people are doing not the individual themselves, please don't go spreading hate it's all for laughs\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n\nThank you !"
+                    },
+                    "defaultAudioLanguage": "en-IN"
+                },
+                "contentDetails": {
+                    "duration": "PT12M2S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "1239967",
+                    "likeCount": "106661",
+                    "favoriteCount": "0",
+                    "commentCount": "2227"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "1gPxT2KonPBwKu1bxc5ZeN19xZ8",
+                "id": "rFcyh19d5pM",
+                "snippet": {
+                    "publishedAt": "2024-02-17T05:38:40Z",
+                    "channelId": "UCmse5JbKneJqVyerfhDVYvQ",
+                    "title": "Characters of Gaami - Teaser | Vishwak Sen | Chandini Chowdary | Vidyadhar Kagita | UV Creations",
+                    "description": "#Gaami chronicles the adventurous journey of Shankar- a wounded, reluctant, and reclusive Aghora on his quest to find the cure for his very rare condition- ‘an inability to experience any human touch’.  But this adventure for cure would be fulfilled, only when he can confront and conquer his destiny that becomes intertwined with two other characters.\n\n#GaamiTeaser #GaamiMovie #VishwakSen #ChandiniChowdary #VidyadharKagita #MGAbhinaya #MohammadSamad #NareshKumaran #GaamiTeluguMovie \n\nMovie details:-\n\nCast:- Vishwak sen, Chandini Chowdary, M G Abhinaya, Mohammad Samad, Harika Pedada, Dayanand Reddy, Shanthi Rao, Mayank Parakh, John Kottoly, Bomma Sreedhar, Rajnish Sharma, sharath kumar N, Shankar Mahanthi, Aumkar Kotamraju, KLK Mani, Sanjay Ratha, K R Unnikrishnan, B Venkat Raman Rao, Rajiv kumar, Mahija, Ram\n \n\nCrew:- \nDirector:- Vidyadhar Kagita\nProducer:- Karthik Sabareesh  \nPresents by:- V celluloid\nScreenplay:- Vidyadhar Kagita, Pratyush Vatyam \nDOP:- Vishwanath Reddy ch\nProduction Designer:- Pravalya Duddupudi\nEditor:- Raghavendra Thirun\nVfx supervisor:- Sunil Raju Chinta\nMusic:- Naresh Kumaran\nCo-DOP:- Rampy Nandigam\nCostume Designers:- Anusha Punjala, Rekha Boggarapu\nSongs:- Naresh Kumaran, Sweekar Agasthi\nLyrics:- Sanapati Bharadwaj Patrudu, Shree Mani\nAction Choreographer:- Wing chun Anji \nColorist:- Vishnu Vardhan K\nDI:- Sarathi Studios\nMixing:- Aravind Menon\nPRO:- Vamshi Shekar\nMarketing:- First Show\nCo-Director:- Pratyush Vatyam\nAssociate Directors:- Naresh sahoo V, Aravind Nagubothu\nAssociate Art directors:- Aravind Nagubothu, Ajay Godavarthi\nAssociate cinematographers:- Ajay godavarthi, Sampath kumar, Trilok siddu, vasista varma\nAssistant Directors:- Guni Manchikanti, Abhilash J, Nagaraj Bynaboyina, Sravan Kumar Nunna\nAerial cinematographer:- Ravi Kanth Kurma\n\n\nClick Here To Watch : \n\nGaami Team Q&A With Media  : https://youtu.be/9iCpkJkONUY \n\nGAAMI Making Video: https://youtu.be/D7YQUYcIYuU\n\nGAAMI-Title Announcement - https://youtu.be/yeCV_PT9vcM\n\nMega156 is VISHWAMBHARA - https://youtu.be/0HO0VUAY_4Q\n\nMega156 Pooja Ceremony : https://youtu.be/LIbj42dx1Ds\n\nFor More Updates About UV Creations:\n\nLike: https://www.facebook.com/UVCTheMovieMakers\nFollow: https://www.instagram.com/uvcreationsofficial\nFollow: https://twitter.com/UV_Creations\nSubscribe: https://www.youtube.com/c/UVCreations",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/rFcyh19d5pM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/rFcyh19d5pM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/rFcyh19d5pM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/rFcyh19d5pM/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/rFcyh19d5pM/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "UV Creations",
+                    "tags": [
+                        "Characters of Gaami - Teaser",
+                        "Vishwak Sen",
+                        "Vidyadhar Kagita",
+                        "Chandini Chowdary",
+                        "UV Creations",
+                        "Gaami",
+                        "Gaami Teaser",
+                        "Gaami official Teaser",
+                        "Gaami Telugu Movie",
+                        "Gaami Movie",
+                        "Gaami Movie Teaser",
+                        "Gaami Telugu Movie Teaser",
+                        "Vishwak Sen Gaami",
+                        "Viswak Sen Gaami Teaser",
+                        "Vishwak Sen movies",
+                        "Vishwak Sen Latest Movie",
+                        "Vishwak Sen New Movie Teaser",
+                        "2024 Latest Telugu Movies",
+                        "Latest Telugu Movies 2024",
+                        "Gaami Trailer",
+                        "Gaami Movie Songs",
+                        "Gaami Making Video",
+                        "Naresh Kumaran"
+                    ],
+                    "categoryId": "24",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "Characters of Gaami - Teaser | Vishwak Sen | Chandini Chowdary | Vidyadhar Kagita | UV Creations",
+                        "description": "#Gaami chronicles the adventurous journey of Shankar- a wounded, reluctant, and reclusive Aghora on his quest to find the cure for his very rare condition- ‘an inability to experience any human touch’.  But this adventure for cure would be fulfilled, only when he can confront and conquer his destiny that becomes intertwined with two other characters.\n\n#GaamiTeaser #GaamiMovie #VishwakSen #ChandiniChowdary #VidyadharKagita #MGAbhinaya #MohammadSamad #NareshKumaran #GaamiTeluguMovie \n\nMovie details:-\n\nCast:- Vishwak sen, Chandini Chowdary, M G Abhinaya, Mohammad Samad, Harika Pedada, Dayanand Reddy, Shanthi Rao, Mayank Parakh, John Kottoly, Bomma Sreedhar, Rajnish Sharma, sharath kumar N, Shankar Mahanthi, Aumkar Kotamraju, KLK Mani, Sanjay Ratha, K R Unnikrishnan, B Venkat Raman Rao, Rajiv kumar, Mahija, Ram\n \n\nCrew:- \nDirector:- Vidyadhar Kagita\nProducer:- Karthik Sabareesh  \nPresents by:- V celluloid\nScreenplay:- Vidyadhar Kagita, Pratyush Vatyam \nDOP:- Vishwanath Reddy ch\nProduction Designer:- Pravalya Duddupudi\nEditor:- Raghavendra Thirun\nVfx supervisor:- Sunil Raju Chinta\nMusic:- Naresh Kumaran\nCo-DOP:- Rampy Nandigam\nCostume Designers:- Anusha Punjala, Rekha Boggarapu\nSongs:- Naresh Kumaran, Sweekar Agasthi\nLyrics:- Sanapati Bharadwaj Patrudu, Shree Mani\nAction Choreographer:- Wing chun Anji \nColorist:- Vishnu Vardhan K\nDI:- Sarathi Studios\nMixing:- Aravind Menon\nPRO:- Vamshi Shekar\nMarketing:- First Show\nCo-Director:- Pratyush Vatyam\nAssociate Directors:- Naresh sahoo V, Aravind Nagubothu\nAssociate Art directors:- Aravind Nagubothu, Ajay Godavarthi\nAssociate cinematographers:- Ajay godavarthi, Sampath kumar, Trilok siddu, vasista varma\nAssistant Directors:- Guni Manchikanti, Abhilash J, Nagaraj Bynaboyina, Sravan Kumar Nunna\nAerial cinematographer:- Ravi Kanth Kurma\n\n\nClick Here To Watch : \n\nGaami Team Q&A With Media  : https://youtu.be/9iCpkJkONUY \n\nGAAMI Making Video: https://youtu.be/D7YQUYcIYuU\n\nGAAMI-Title Announcement - https://youtu.be/yeCV_PT9vcM\n\nMega156 is VISHWAMBHARA - https://youtu.be/0HO0VUAY_4Q\n\nMega156 Pooja Ceremony : https://youtu.be/LIbj42dx1Ds\n\nFor More Updates About UV Creations:\n\nLike: https://www.facebook.com/UVCTheMovieMakers\nFollow: https://www.instagram.com/uvcreationsofficial\nFollow: https://twitter.com/UV_Creations\nSubscribe: https://www.youtube.com/c/UVCreations"
+                    },
+                    "defaultAudioLanguage": "en"
+                },
+                "contentDetails": {
+                    "duration": "PT1M30S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "true",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "414203",
+                    "likeCount": "26169",
+                    "favoriteCount": "0",
+                    "commentCount": "419"
+                }
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "SanxGFfm-14DRJh4lk1iIp-Szoc",
+                "id": "uI8TMMc4E38",
+                "snippet": {
+                    "publishedAt": "2024-02-14T04:28:12Z",
+                    "channelId": "UCcXu_m_ttJlyupIOq7beK4g",
+                    "title": "Cheap Song Promo Kannada - #UITheMovie | Upendra | Ajaneesh B | Lahari Films | Venus Enterrtainers",
+                    "description": "Here's the #Cheap Song Kannada Promo from #UITheMovie \n\n#uithemovie is an Upcoming Pan-Indian film Directed and Acted by the acclaimed hitmaker Real Star #Upendra & Produced by G. Manoharan & KP Sreekanth under the banner ‘Lahari Films LLP’ & “Venus Enterrtainers”\n\n#CheapSongPromo #UITheMovie #nimmaupendra #ajaneeshlokanath #uppidirects #laharifilm #venusenterrtainers #Cheap #CheapSong\n\nDirected by: Real Star #Upendra\nBanner: Lahari Films & Venus Enterrtainers\nProduced by: G Manoharan - Sreekanth KP\nCo - Produced by: Naveen Manoharan\nExecutive Producer(S): G Thulasiram (Lahari Velu), G Ramesh, G Anand, Chandru Manoharan & Nagendra\n\nSong Name: Cheap Song\nLyrics: Upendra \nSingers: Vijay Prakash, Nakash Aziz & Deepak Blue\nChoreography: Chinni Prakash\n\nMusic : B. Ajaneesh Loknath \n\n\nKeyboard : B. Ajaneesh Loknath \nRhythm: Ricky D’Costa , Kalyan Chakravarthy & B. Ajaneesh loknath \n\nLive Percussions: Shruthi Raja \n\nAdditional Vocals:\nB. Ajaneesh Loknath \nAbhishek M R\nAnirudha Bhargav \nGagan Puranik \nHrushikesh B R\n\nMusic Production:\nC.R. Bobby\nB. Ajaneesh Loknath \nABBS STUDIOS\nBangalore \n\nMixed by : B. Ajaneesh Loknath \n\nRecorded by \nAmey Londha \nAudio Garage \nMumbai\n\nAshwin\nPrabhath Studio \nBangalore\n\nV.Kumar\nSur Productions \nBangalore \n\nKashyap \nFen\n2bar Q studio\nChennai\n\nDOP: H.C. Venu \nMusic: B Ajaneesh Loknath \nEditor: Vijay Raj BG \nArt Director: Shivakumar.J \nStunt: Thriller Manju, Ravi Varma, Chethan D'souza\nCo-Director: M N Krishna Lekhana \nAssociate Director: Vivek Datta, Prashanth A.P\nVFX Supervisor: Nirmal Kumar (Radiance Fx) \nColorist: Ashik Kusugolli \nSound Design: VG Rajen \nDolby Atmos Engineer: L. Satish Kumar \nDirection Team: Vedika, Manoj Das, Kishore Krishnamurthy, Sai Charan C Rai, Pardha Saradhi M, Abhijna R.N \nProduction In-charge: Satish Kumar Billadi \nProduction Manager: Kiran, Anil \nCostume Designers: Bharath Sagar, Varshini Janakiram \nCompany Costume: Narayan \nArt Associates: Kiran Ajay Kumar, Manu Prasad, Sunil Nandagudi \nPublicity & Marketing: Puneeth Kumar \nMarketing: Walls and Trends\n\n-----------------------------\n\nSubscribe to our YouTube Channel : https://bit.ly/LahariFilms\nLahari Films Website Link: https://www.laharifilms.com\nFollow us on Instagram: https://www.instagram.com/laharifilms/\nLike us on Facebook: https://www.facebook.com/LahariFilms\nFollow Us on Twitter: https://twitter.com/LahariFilm",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/uI8TMMc4E38/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/uI8TMMc4E38/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/uI8TMMc4E38/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/uI8TMMc4E38/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/uI8TMMc4E38/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Lahari Films",
+                    "tags": [
+                        "ui the movie",
+                        "upendra new movie",
+                        "upendra",
+                        "upendra ui teaser",
+                        "ui movie teaser",
+                        "ui kannada movie",
+                        "reshma nanaiya",
+                        "upendra movie",
+                        "ui kannada movie trailer",
+                        "ui upendra movie telugu",
+                        "ui teaser",
+                        "ui new movie trailer",
+                        "upendra telugu movie",
+                        "upendra ui movie telugu",
+                        "lahari music",
+                        "lahari production",
+                        "lahari films",
+                        "ui movie kannada",
+                        "cheap song",
+                        "cheap video song",
+                        "cheap song kannada",
+                        "ui songs",
+                        "ui movie songs",
+                        "ui kannada movie songs",
+                        "ui movie songs kannada",
+                        "ui movie trailer"
+                    ],
+                    "categoryId": "24",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en-IN",
+                    "localized": {
+                        "title": "Cheap Song Promo Kannada - #UITheMovie | Upendra | Ajaneesh B | Lahari Films | Venus Enterrtainers",
+                        "description": "Here's the #Cheap Song Kannada Promo from #UITheMovie \n\n#uithemovie is an Upcoming Pan-Indian film Directed and Acted by the acclaimed hitmaker Real Star #Upendra & Produced by G. Manoharan & KP Sreekanth under the banner ‘Lahari Films LLP’ & “Venus Enterrtainers”\n\n#CheapSongPromo #UITheMovie #nimmaupendra #ajaneeshlokanath #uppidirects #laharifilm #venusenterrtainers #Cheap #CheapSong\n\nDirected by: Real Star #Upendra\nBanner: Lahari Films & Venus Enterrtainers\nProduced by: G Manoharan - Sreekanth KP\nCo - Produced by: Naveen Manoharan\nExecutive Producer(S): G Thulasiram (Lahari Velu), G Ramesh, G Anand, Chandru Manoharan & Nagendra\n\nSong Name: Cheap Song\nLyrics: Upendra \nSingers: Vijay Prakash, Nakash Aziz & Deepak Blue\nChoreography: Chinni Prakash\n\nMusic : B. Ajaneesh Loknath \n\n\nKeyboard : B. Ajaneesh Loknath \nRhythm: Ricky D’Costa , Kalyan Chakravarthy & B. Ajaneesh loknath \n\nLive Percussions: Shruthi Raja \n\nAdditional Vocals:\nB. Ajaneesh Loknath \nAbhishek M R\nAnirudha Bhargav \nGagan Puranik \nHrushikesh B R\n\nMusic Production:\nC.R. Bobby\nB. Ajaneesh Loknath \nABBS STUDIOS\nBangalore \n\nMixed by : B. Ajaneesh Loknath \n\nRecorded by \nAmey Londha \nAudio Garage \nMumbai\n\nAshwin\nPrabhath Studio \nBangalore\n\nV.Kumar\nSur Productions \nBangalore \n\nKashyap \nFen\n2bar Q studio\nChennai\n\nDOP: H.C. Venu \nMusic: B Ajaneesh Loknath \nEditor: Vijay Raj BG \nArt Director: Shivakumar.J \nStunt: Thriller Manju, Ravi Varma, Chethan D'souza\nCo-Director: M N Krishna Lekhana \nAssociate Director: Vivek Datta, Prashanth A.P\nVFX Supervisor: Nirmal Kumar (Radiance Fx) \nColorist: Ashik Kusugolli \nSound Design: VG Rajen \nDolby Atmos Engineer: L. Satish Kumar \nDirection Team: Vedika, Manoj Das, Kishore Krishnamurthy, Sai Charan C Rai, Pardha Saradhi M, Abhijna R.N \nProduction In-charge: Satish Kumar Billadi \nProduction Manager: Kiran, Anil \nCostume Designers: Bharath Sagar, Varshini Janakiram \nCompany Costume: Narayan \nArt Associates: Kiran Ajay Kumar, Manu Prasad, Sunil Nandagudi \nPublicity & Marketing: Puneeth Kumar \nMarketing: Walls and Trends\n\n-----------------------------\n\nSubscribe to our YouTube Channel : https://bit.ly/LahariFilms\nLahari Films Website Link: https://www.laharifilms.com\nFollow us on Instagram: https://www.instagram.com/laharifilms/\nLike us on Facebook: https://www.facebook.com/LahariFilms\nFollow Us on Twitter: https://twitter.com/LahariFilm"
+                    },
+                    "defaultAudioLanguage": "kn"
+                },
+                "contentDetails": {
+                    "duration": "PT48S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "2956745",
+                    "likeCount": "74848",
+                    "favoriteCount": "0",
+                    "commentCount": "2499"
+                }
+            }
+        ],
+        "nextPageToken": "CBQQAA",
+        "pageInfo": {
+            "totalResults": 185,
+            "resultsPerPage": 20
+        }
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+        "cache-control": "private",
+        "content-encoding": "gzip",
+        "content-length": "18002",
+        "content-type": "application/json; charset=UTF-8",
+        "date": "Sat, 17 Feb 2024 15:15:57 GMT",
+        "server": "scaffolding on HTTPServer2",
+        "vary": "Origin, X-Origin, Referer"
+    },
+    "config": {
+        "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+        },
+        "adapter": [
+            "xhr",
+            "http"
+        ],
+        "transformRequest": [
+            null
+        ],
+        "transformResponse": [
+            null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+            "Accept": "application/json, text/plain, */*"
+        },
+        "baseURL": "https://youtube.googleapis.com/youtube/v3/",
+        "params": {
+            "key": "AIzaSyCU9346Ovzzi6tLjqxedtyQnlB48LvQO-Y",
+            "part": "snippet,contentDetails,statistics",
+            "chart": "mostPopular",
+            "regionCode": "IN",
+            "maxResults": 20
+        },
+        "method": "get",
+        "url": "/videos"
+    },
+    "request": {}
+}
