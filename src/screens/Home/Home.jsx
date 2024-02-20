@@ -29,6 +29,13 @@ const Home = () => {
 
     console.log(videos);
 
+    const handleScroll = (e) => {
+        const bottom = e.target.scrollHeight - e.target.scrollTop === e.target.clientHeight;
+        if (bottom) {
+            fetchVideos();
+        }
+    }
+
     return (
         <div className='main-div'>
             <div className='header-div'>
@@ -51,27 +58,15 @@ const Home = () => {
                             })
                         }
                     </div>
-                    <div className='videos-div'>
-
-                        <InfiniteScroll
-                            dataLength={videos.length} //This is important field to render the next data
-                            next={fetchVideos}
-                            hasMore={true}
-                            loader={<h4>Loading...</h4>}
-                        >
-
-                            {
-                                videos.map((vdo, i) => {
-                                    return (
-                                        <Video video={vdo} key={i} />
-                                    )
-                                })
-                            }
-
-                        </InfiniteScroll>
+                    <div className='videos-div' onScroll={handleScroll}>
+                        {
+                            videos.map((vdo, i) => {
+                                return (
+                                    <Video video={vdo} key={i} />
+                                )
+                            })
+                        }
                     </div>
-
-
                 </div>
             </div>
         </div>

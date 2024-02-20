@@ -12,7 +12,7 @@ export const getPopularVideos = () => async (dispatch, getState) => {
                 part: 'snippet,contentDetails,statistics',
                 chart: 'mostPopular',
                 regionCode: 'IN',
-                maxResults: 30,
+                maxResults: 9,
                 pageToken: getState().homeVideos.nextPageToken,
             }
         })
@@ -50,7 +50,7 @@ export const getVideosByCategory = (keyword) => async (dispatch, getState) => {
         const { data } = await request.get("/search", {
             params: {
                 part: 'snippet',
-                maxResults: 30,
+                maxResults: 9,
                 pageToken: getState().homeVideos.nextPageToken,
                 q: keyword,
                 type: 'video'
