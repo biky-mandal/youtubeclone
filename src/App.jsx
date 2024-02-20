@@ -18,7 +18,7 @@ const App = () => {
   }, [accessToken, loading, navigate])
 
   return <Routes>
-      <Route exact path='/' element={<Home />} />
+      <Route exact path='/youtubeclone' element={<Home />} />
       <Route path='/auth' element={<Login />} />
       <Route path="*" element={<NotFound />} />
     </Routes>

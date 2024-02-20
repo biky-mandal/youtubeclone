@@ -2,7 +2,7 @@
   "name": "youtubeclone",
   "version": "0.1.0",
   "homepage": "https://biky-mandal.github.io/youtubeclone",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@redux-devtools/extension": "^3.3.0",
     "@testing-library/jest-dom": "^5.17.0",
