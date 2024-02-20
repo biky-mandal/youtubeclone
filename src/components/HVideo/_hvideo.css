@@ -1,0 +1,64 @@
+.hvideo{
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    /* flex-direction: column; */
+}
+.hthumbnail-box{
+    position: relative;
+}
+.hthumbnail{
+    border-radius: 10px;
+}
+.hduration{
+    position: absolute;
+    z-index: 1;
+    background-color: #0f0f0f;
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    right: 2px;
+    bottom: 2px;
+}
+.hbottom-description{
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    height: auto;
+}
+.hchannel-icon{
+    width: 3rem;
+    height: auto;
+}
+.hdescription{
+    /* width: calc(100% - 3rem); */
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.htexts{
+    text-wrap: wrap;
+    font-size: 14px;
+    color: #0f0f0f;
+    font-weight: 500;
+}
+.hc-icon{
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+}
+.hchannel-title{
+    font-size: 12px;
+    color: #606060;
+    font-weight: 400;
+}
+.hinfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 5px;
+}

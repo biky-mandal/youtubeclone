@@ -7,13 +7,16 @@ import categories from '../../assets/jsons/categories.json';
 import { useDispatch, useSelector } from 'react-redux';
 import { getPopularVideos, getVideosByCategory } from '../../redux/actions/videos.action';
 import Video from '../../components/Video/Video';
-import InfiniteScroll from 'react-infinite-scroll-component';
 
 const Home = () => {
 
     const dispatch = useDispatch();
     const fetchVideos = () => {
-        dispatch(getPopularVideos())
+        if(activeElement === 'All'){
+            dispatch(getPopularVideos());
+        }else{
+            dispatch(getVideosByCategory(activeElement));
+        }
     }
     const { videos } = useSelector(state => state.homeVideos);
     const [activeElement, setActivieElement] = useState('All')

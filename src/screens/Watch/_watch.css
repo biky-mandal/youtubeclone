@@ -1,0 +1,48 @@
+.main-div {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.watch-main-div{
+    position: relative;
+}
+
+.header-div {
+    height: 3.5rem;
+    width: 100%;
+}
+.sticky-header{
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 11;
+}
+
+.content-with-sidebar {
+    height: calc(100% - 3.5rem);
+    width: 100%;
+    display: flex;
+    gap: 1rem;
+}
+.vdo{
+    width: 65%;
+    height: 100%;
+    padding: 1.5rem 0 2rem 2rem ;
+}
+.iframe-vdo-div{
+    height: auto;
+}
+.iframe{
+    border: none;
+    outline: none;
+    border-radius: 15px;
+}
+
+.vdo-description{
+    width: 100%;
+    height: auto;
+}
+.right-sidebar{
+    width: 30%;
+}

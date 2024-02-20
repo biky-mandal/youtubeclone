@@ -5,6 +5,7 @@ import Login from './screens/Login/Login';
 import NotFound from './screens/NotFound/NotFound';
 import { BrowserRouter as Router, Route, Routes, useNavigate  } from 'react-router-dom'
 import { useSelector } from 'react-redux';
+import Watch from './screens/Watch/Watch';
 
 const App = () => {
 
@@ -19,6 +20,7 @@ const App = () => {
 
   return <Routes>
       <Route exact path='/' element={<Home />} />
+      <Route exact path='/watch' element={<Watch />} />
       <Route path='/auth' element={<Login />} />
       <Route path="*" element={<NotFound />} />
     </Routes>
