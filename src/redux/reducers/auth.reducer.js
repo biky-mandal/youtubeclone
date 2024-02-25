@@ -1,8 +1,8 @@
 import { LOAD_PROFILE, LOGIN_FAILED, LOGIN_REQUEST, LOGIN_SUCCESS, LOGOUT } from '../actionType';
 
 const initialState = {
-    accessToken: sessionStorage.getItem('ytc-accessToken') ? sessionStorage.getItem('ytc-accessToken') : null,
-    user: sessionStorage.getItem('ytc-profile') ? sessionStorage.getItem('ytc-profile') : null,
+    accessToken: localStorage.getItem('ytc-accessToken') ? localStorage.getItem('ytc-accessToken') : null,
+    user: localStorage.getItem('ytc-profile') ? localStorage.getItem('ytc-profile') : null,
     loading: false
 }
 

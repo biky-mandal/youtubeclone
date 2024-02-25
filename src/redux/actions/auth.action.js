@@ -18,8 +18,8 @@ export const login = () => async dispatch => {
                     photoURL: res.user.photoURL
                 }
 
-                sessionStorage.setItem('ytc-accessToken', accessToken);
-                sessionStorage.setItem('ytc-profile', JSON.stringify(profile));
+                localStorage.setItem('ytc-accessToken', accessToken);
+                localStorage.setItem('ytc-profile', JSON.stringify(profile));
 
                 dispatch({
                     type: LOGIN_SUCCESS,
@@ -54,6 +54,6 @@ export const logout = () => async dispatch => {
         type: LOGOUT
     })
 
-    sessionStorage.removeItem('ytc-accessToken');
-    sessionStorage.removeItem('ytc-profile');
+    localStorage.removeItem('ytc-accessToken');
+    localStorage.removeItem('ytc-profile');
 }
