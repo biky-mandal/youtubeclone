@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './_searchbar.css';
-import MaterialIcon, {colorPalette} from 'material-icons-react';
+import MaterialIcon from 'material-icons-react';
 
 class Searchbar extends Component {
     render() {

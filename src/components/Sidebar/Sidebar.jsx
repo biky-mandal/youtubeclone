@@ -1,7 +1,7 @@
 import React from 'react';
 import './_sidebar.css';
 import sbItems from '../../assets/jsons/sidebarItems.json';
-import { useDispatch, useSelector } from 'react-redux';
+import { useDispatch } from 'react-redux';
 import { logout } from '../../redux/actions/auth.action';
 
 const Sidebar = () => {

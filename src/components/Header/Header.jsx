@@ -3,7 +3,7 @@ import './_header.css';
 import yticon from '../../assets/youtube-logo-png-46020.png';
 import unnnamed from '../../assets/unnamed.jpg';
 import Searchbar from '../Searchbar/Searchbar';
-import MaterialIcon, { colorPalette } from 'material-icons-react';
+import MaterialIcon from 'material-icons-react';
 
 class Header extends Component {
     render() {

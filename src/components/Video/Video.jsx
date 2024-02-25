@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import './_video.css';
-import thumb from '../../assets/icons8-google-96.png';
 import moment from 'moment';
 import numeral from 'numeral';
 import request from '../../api';

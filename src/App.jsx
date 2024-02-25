@@ -1,9 +1,9 @@
-import React, { Component, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import './App.css';
 import Home from './screens/Home/Home';
 import Login from './screens/Login/Login';
 import NotFound from './screens/NotFound/NotFound';
-import { BrowserRouter as Router, Route, Routes, useNavigate  } from 'react-router-dom'
+import { Route, Routes, useNavigate  } from 'react-router-dom'
 import { useSelector } from 'react-redux';
 import Watch from './screens/Watch/Watch';
 
