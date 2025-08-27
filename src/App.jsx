@@ -16,7 +16,7 @@ const App = () => {
     if(!loading && !accessToken){
       navigate('/auth');
     }
-  }, [accessToken, loading, navigate])
+  }, [accessToken, loading, navigate]) // On Change Testing
 
   return <Routes>
       <Route exact path='/' element={<Home />} />
